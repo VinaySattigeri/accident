@@ -1,0 +1,741 @@
+STATE,City,Area,Year,Month,Day,Pothole_Severity,Typeofvehicle,Causes,No_of_death,No_of_injured,No_of_accident,Accident_Severity
+ANDHRA PRADESH,Anantapur,A Narayanapura,2016,Jan ,20,High,Car over speed and hit to road crossing Pedestrian,Tempo/Vans (Government),23,12,30,High
+ANDHRA PRADESH,Kakkalapalle,Agaram,2016,Feb,2,High,Fault of other vehicle while crossing the road two wheeler car hit,Jeep (Government),25,20,31,High
+ANDHRA PRADESH,Narayanapuram,Banasavadi,2016,Mar,1,Low,Two wheeler over speed and hit to two wheeler,Jeep (Private),5,1,10,Low
+ANDHRA PRADESH,Papampeta,Basavanapura,2016,Apr,5,High,Fault of road crossing pedestrian,Car (Government),10,4,21,Medium
+ANDHRA PRADESH,Yenumalapalle,Bellanduru,2016,May,6,High,Truck over speed and hit to Truck,Bicycle,38,23,40,High
+ANDHRA PRADESH,Avilala,Benniganahalli,2016,Jun,4,Low,Truck over speed and Hit to the Two wheeler,Pedestrian,5,2,7,Low
+ANDHRA PRADESH,Mangalam,Bharathi Nagar,2016,Jul,7,High,Two wheeler over speed and hit to Tractor,Total Jeep,10,24,23,Medium
+ANDHRA PRADESH,Mangasamudram,BTM Layout,2016,Aug,23,Medium,Two wheeler over speed and hit to Two wheeler,Truck/Lorry (Government),12,21,20,High
+ANDHRA PRADESH,Murakambattu,C V Raman Nagar,2016,Sep,21,Low,car over speed and hit to two wheeler,Bus (Government),15,2,3,Low
+ANDHRA PRADESH,Perur,Chickpete,2016,Oct,12,Low,Car over speed self accident,Tempo/Vans (Government),20,22,23,High
+ANDHRA PRADESH,Arempudi,Devasandra,2016,Nov,31,High,Two wheeler self accident Drunk & Drive,Jeep (Government),2,12,14,Medium
+ANDHRA PRADESH,Chidiga,Dharmaraya Swamy Temple,2016,Dec,13,Medium,Car Hit to the Multi axle,Car (Government),19,34,40,High
+ANDHRA PRADESH,Morampudi,Dodda Nekkundi,2016,Jan ,30,Medium,Bike,Three Wheeler,17,21,22,Medium
+ANDHRA PRADESH,Chennamukkapalle,Domlur,2016,Jan ,23,Low,Car over speed self accident,Bicycle,16,34,50,High
+ANDHRA PRADESH,Dommara Nandyala,Garudachar Playa,2016,Jan ,22,Medium,T.T,Pedestrian,2,21,30,Medium
+ANDHRA PRADESH,Mangampeta,Gurappanapalya,2016,Jan ,20,Low,Car over speed,Bus (Government),10,22,30,High
+ANDHRA PRADESH,Modameedipalle,Hagadur,2016,Jan ,11,Medium,Car self accident defect in mechanical condition,Tempo/Vans (Government),17,21,20,Medium
+ANDHRA PRADESH,Nagireddipalle,HAL Airport,2016,Jan ,19,High,Bike over speed and Vehicle out of control hit to the lorry,Tempo/Vans (Private),22,23,40,High
+ANDHRA PRADESH,Veparala,Halsoor,2016,Jan ,18,Low,Car,Jeep (Government),1,3,5,Low
+A & N ISLANDS,Bambooflat,Hemmigepura,2016,Jan ,15,Low,Over Speed of Car,Car (Government),2,2,4,Low
+A & N ISLANDS,Garacharma,Horamavu,2016,Jan ,14,Low,Fault of road crossing pedestrian,Car (Private),4,3,5,Low
+A & N ISLANDS,Port Blair,Hoysala Nagar,2016,Jan ,12,Low,Car,Three Wheeler,5,7,8,Low
+A & N ISLANDS,Prothrapur,HSR Layout,2016,Jan ,18,Medium,Multi axle over speed and hit to car,Bicycle,8,23,25,High
+A & N ISLANDS,Diglipur,Hudi,2016,Jan ,17,Medium,Truck over speed and hit LCV,Pedestrian,11,12,30,Medium
+A & N ISLANDS,Mayabunder,J P Nagar,2016,Jan ,14,High,Tata Ace hit to the car,Others (Please Specify),9,20,31,High
+A & N ISLANDS,Tusnabad,Jaraganahalli,2016,Jan ,9,Medium,Car over speed and hit to Animal (Cow),Total Tempo/Vans,13,1,10,High
+A & N ISLANDS,Indira Point,Jayanagar East,2016,Jan ,8,High,Car over speed self accident,Total Car,20,4,21,High
+A & N ISLANDS,Swaraj Dweep,Jeevanbhima Nagar,2016,Jan ,10,Medium,Truck over speed and hit to Car,Truck/Lorry (Government),21,23,40,High
+A & N ISLANDS,Zonal Anthropological Museum,Jogupalya,2016,Jan ,20,Medium,Fault of road crossing pedestrian,Bus (Government),19,2,7,High
+A & N ISLANDS,Cellular Jail,K R Puram,2016,Jan ,2,High,Truck over speed and hit to LCV,Tempo/Vans (Government),22,24,23,Medium
+A & N ISLANDS,Port Blair,Kacharkanahalli,2016,Jan ,1,Low,Self accident Driver sleeping,Tempo/Vans (Private),3,21,20,Medium
+A & N ISLANDS,Garacharma,Kadugodi,2016,Jan ,5,Medium,Fault of Two wheeler over speed to crossing road,Jeep (Government),1,2,3,Medium
+A & N ISLANDS,Prothrapur,Kammanahalli,2016,Jan ,6,Low,Car over speed and hit to car,Car (Government),10,22,23,Low
+A & N ISLANDS,Cellular Jail,Konena Agrahara,2016,Jan ,4,Low,Truck over speed and hit to Bike & Bus,Car (Private),20,12,14,High
+A & N ISLANDS,Port Blair,Madivala,2016,Feb,7,Medium,Two wheeler over speed and hit to Two wheeler,Bicycle,21,34,40,High
+A & N ISLANDS,Prothrapur,Marathahalli,2016,Feb,23,Low,Car over speed self accident,Others (Please Specify),23,21,22,High
+A & N ISLANDS,Zonal Anthropological Museum,New Tippasandara,2016,Feb,21,Low,Two wheeler over speed self accident,Total Tempo/Vans,21,34,50,High
+A & N ISLANDS,Indira Point,Other,2016,Feb,12,Medium,Driver sleeping vehicle out of control and skidding,Total Car,12,21,30,Low
+A & N ISLANDS,Tusnabad,other,2016,Feb,31,Medium,Bus over speed and hit to Two wheeler,Truck/Lorry (Government),15,22,30,Low
+ARUNACHAL PRADESH,Itanagar,Ramamurthy Nagar,2016,Feb,13,High,Bus over speed and hit to two wheeler,Tempo/Vans (Government),13,21,20,Medium
+ARUNACHAL PRADESH,East Siang district,Sampangiram Nagar,2016,Feb,30,Low,Car over speed and hit to car,Tempo/Vans (Private),10,23,40,Medium
+ARUNACHAL PRADESH,Ziro,Sarakki,2016,Feb,23,Medium,Car over speed and hit to car,Jeep (Government),20,3,5,High
+ARUNACHAL PRADESH,Bomdila,Shantala Nagar,2016,Feb,22,Medium,LCV vehicle over speed out of controll,Jeep (Private),5,2,4,High
+ARUNACHAL PRADESH,Jairampur,Singasandra,2016,Feb,20,High,Bike,Car (Government),6,3,5,High
+ARUNACHAL PRADESH,Naharlagun,Sudham Nagara,2016,Feb,11,Low,Bike,Bicycle,7,7,8,High
+ARUNACHAL PRADESH,Deomali,Varthuru,2016,Feb,19,High,Car over speed hit to Two wheeler. Fault of Two wheeler crossing the illegal median.,Pedestrian,9,23,25,Medium
+ARUNACHAL PRADESH,Seppa,Vasanthpura,2016,Feb,18,Low,Truck over speed and hit to car,Others (Please Specify),1,12,30,Low
+ARUNACHAL PRADESH,Changlang,Vijnana Nagar,2016,Feb,15,Medium,Two wheeler over speed and take U turn and hit to the car,Total Tempo/Vans,12,20,31,Medium
+ARUNACHAL PRADESH,Bordumsa,Vijnanapura,2016,Feb,14,High,Vehicle over speed and Out of Control,Total Jeep,5,1,10,Medium
+ARUNACHAL PRADESH,Anini,Yelchenahalli,2016,Feb,12,Low,Bike raiding vehicle out of control,Bus (Government),6,4,21,High
+ARUNACHAL PRADESH,Vijoynagar,A Narayanapura,2016,Feb,18,High,Two wheeler over speed and hit to Car,Tempo/Vans (Government),3,23,40,High
+ARUNACHAL PRADESH,Boleng,Agaram,2016,Feb,17,High,Car over speed and Hit to LCV,Tempo/Vans (Private),5,2,7,High
+ARUNACHAL PRADESH,Chowkham,Banasavadi,2016,Feb,14,Low,Self accident Drunk & Drive,Jeep (Government),10,24,23,Low
+ARUNACHAL PRADESH,Mechuka,Basavanapura,2016,Feb,9,High,Two wheeller over speed and Hit to JCB,Car (Government),12,21,20,High
+ARUNACHAL PRADESH,Banderdawa Papum Pare,Bellanduru,2016,Feb,8,High,Self Accident Drunk & Drive,Car (Private),15,2,3,High
+ARUNACHAL PRADESH,Lazu,Benniganahalli,2016,Feb,10,Low,The vehicle of lorry hit to Road crossing passenger,Two Wheeler,20,22,23,Low
+ARUNACHAL PRADESH,Hunli,Bharathi Nagar,2016,Feb,20,High,Drunk & Drive,Bicycle,2,12,14,High
+ARUNACHAL PRADESH,Nirjuli,BTM Layout,2016,Feb,2,Medium,Two wheeler over speed self accident,Pedestrian,19,34,40,Medium
+ARUNACHAL PRADESH,Namsang,C V Raman Nagar,2016,Feb,1,Low,LCV over speed and hit to road crossing pedestrain,Others (Please Specify),17,21,22,Low
+ARUNACHAL PRADESH,Dambuk,Chickpete,2016,Feb,5,Low,Two wheeler over speed Self accident,Total Tempo/Vans,16,34,50,Low
+ASSAM,Guwahati,Devasandra,2016,Feb,6,High,car over speed out of control,Total Car,2,21,30,High
+ASSAM,Silchar,Dharmaraya Swamy Temple,2016,Feb,4,Medium,Wrong route of Auto come and Hit to the Car over speed,Truck/Lorry (Government),13,22,30,Medium
+ASSAM,Dibrugarh,Dodda Nekkundi,2016,Feb,7,Medium,Fault of driver of Motor vehicle,Bus (Government),17,21,20,Medium
+ASSAM,Jorhat,Domlur,2016,Feb,23,Low,TATA ACE,Bus (Private),2,23,40,Low
+ASSAM,Nagaon,Garudachar Playa,2016,Feb,21,Medium,Car over speed and hit to Car,Tempo/Vans (Government),1,3,5,Medium
+ASSAM,Tinsukia,Gurappanapalya,2016,Feb,12,Low,Car,Tempo/Vans (Private),2,2,4,Low
+ASSAM,Tezpur,Hagadur,2016,Feb,31,Medium,Tempo over Speed,Jeep (Government),4,3,5,Medium
+ASSAM,Bongaigaon,HAL Airport,2016,Feb,13,High,Car over speed self accident. Negligible Driving,Car (Government),5,7,8,High
+ASSAM,Diphu,Halsoor,2016,Feb,30,Low,Truck over speed and hit to Car,Bicycle,8,23,25,Low
+ASSAM,Dhubri ,Hemmigepura,2016,Feb,23,Low,Truck,Others (Please Specify),11,12,30,Low
+ASSAM,North Lakhimpur,Horamavu,2016,Feb,22,Low,Over Speed of Lorry,Total Bus,9,20,31,Low
+ASSAM,Karimganj,Hoysala Nagar,2016,Feb,20,Low,LCV over speed Tyre blast self accident,Total Tempo/Vans,13,1,10,Low
+ASSAM,Golaghat,HSR Layout,2016,Mar,11,Medium,Two wheeler over speed and hit to Two wheeler,Bus (Government),20,4,21,Medium
+ASSAM,Lanka,Hudi,2016,Mar,19,Medium,Car over speed and hit to road crossing pedestrian. Fault of Pedestrian.,Tempo/Vans (Government),21,23,40,Medium
+ASSAM,Hojai,J P Nagar,2016,Mar,18,High,Fault of road crossing pedestrian. Vehicle over speed and hit to pedestrian,Jeep (Government),19,2,7,High
+ASSAM,Mangaldai,Jaraganahalli,2016,Mar,15,Medium,Two wheeler over speed turning the opening opposite vehicle of truck hit to two wheeler,Car (Government),22,24,23,Medium
+ASSAM,Lanka,Jayanagar East,2016,Mar,14,High,Car over speed and hit to Agriculture vehicle.,Three Wheeler,3,21,20,High
+ASSAM,Kokrajhar,Jeevanbhima Nagar,2016,Mar,12,Medium,Car self accident defect in mechanical condition,Bicycle,1,2,3,Medium
+ASSAM,Morigaon,Jogupalya,2016,Mar,18,Medium,Vehicle Hit to Road crossing Pedestrian,Truck/Lorry (Government),10,22,23,Medium
+ASSAM,Nalbari,K R Puram,2016,Mar,17,High,Two wheeler over speed and hit to Car,Tempo/Vans (Government),20,12,14,High
+ASSAM,Rangia,Kacharkanahalli,2016,Mar,14,Low,Two wheeler Hit and run Road crossing pedestrian,Tempo/Vans (Private),21,34,40,Low
+BIHAR,Patna,Kadugodi,2016,Mar,9,Medium,Car over speed self accident,Jeep (Government),23,21,22,Medium
+BIHAR,Muzaffarpur,Kammanahalli,2016,Mar,8,Low,Fault of Two wheeler over speed,Car (Government),21,34,50,Low
+BIHAR,Gaya,Konena Agrahara,2016,Mar,10,Low,Two wheeler over speed and hit to car,Bicycle,12,21,30,Low
+BIHAR,Bihar Sharif,Madivala,2016,Mar,20,Medium,Unknown vehicle hit to Road crossing pedestrian,Pedestrian,15,22,30,Medium
+BIHAR,Nalanda,Marathahalli,2016,Mar,2,Low,Self Accident Drunk & Drive,Total Tempo/Vans,13,21,20,Low
+BIHAR,Begusarai,New Tippasandara,2016,Mar,1,Low,Car over speed fault of driver,Truck/Lorry (Government),10,23,40,Low
+BIHAR,Munger,Other,2016,Mar,5,Medium,KSRTC bus over speed Hit to Car,Bus (Government),20,3,5,Medium
+BIHAR,Bodh Gaya,other,2016,Apr,6,Medium,car over speed and hit to two wheeler,Tempo/Vans (Government),5,2,4,Medium
+BIHAR,Katihar,Ramamurthy Nagar,2016,Apr,4,High,Truck over speed and Hit to the Two wheeler,Tempo/Vans (Private),6,3,5,High
+BIHAR,Hajipur,Sampangiram Nagar,2016,Apr,7,Low,Car,Jeep (Government),7,7,8,Low
+BIHAR,Chapra,Sarakki,2016,Apr,23,Medium,Two wheeler over speed hit to two wheeler,Car (Government),9,23,25,Medium
+BIHAR,Bettiah,Shantala Nagar,2016,Apr,21,Medium,Two wheeler over speed and vehicle out of control skidding self accident,Others (Please Specify),1,12,30,Medium
+BIHAR,Siwan,Singasandra,2016,Apr,12,High,car over speed and hit to two wheeler,Total Tempo/Vans,12,20,31,High
+BIHAR,Danapur,Sudham Nagara,2016,Apr,31,Low,Two wheeler over speed Self accident,Truck/Lorry (Government),5,1,10,Low
+BIHAR,Samastipur,Varthuru,2016,Apr,13,High,Car over speed Driver sleeping vehicle skidding,Truck/Lorry (Private),6,4,21,High
+BIHAR,Khagaul,Vasanthpura,2016,Apr,30,Low,Car over speed and hit to LCV,Bus (Government),3,23,40,Low
+BIHAR,Bagaha,Vijnana Nagar,2016,Apr,23,Medium,Car over speed and Hit to LCV,Tempo/Vans (Government),5,2,7,Medium
+BIHAR,Lakhisarai,Vijnanapura,2016,Apr,22,High,Tractor over speed U turn and hit to Car,Tempo/Vans (Private),10,24,23,High
+BIHAR,Forbesganj,Yelchenahalli,2016,Apr,20,Low,Car,Jeep (Government),12,21,20,Low
+BIHAR,Sherghati,A Narayanapura,2016,Apr,11,High,Car,Car (Government),15,2,3,High
+BIHAR,Daudnagar,Agaram,2016,Apr,19,High,Fault of Car over speed and hit to the KSRTC bus,Car (Private),20,22,23,High
+CHANDIGARH,Jalandhar,Banasavadi,2016,Apr,18,Low,Drunk & Drive of car driver,Bicycle,2,12,14,Low
+CHANDIGARH,Patiala,Basavanapura,2016,Apr,15,High,Car over speed and hit to road crossing Pedestrian,Others (Please Specify),19,34,40,High
+CHANDIGARH,Mohali,Bellanduru,2016,Apr,14,High,Bus hit to road crossing pedestrian. Fault of Pedestrian,Total Truck/Lorry,17,21,22,High
+CHANDIGARH,Amritsar,Benniganahalli,2016,Apr,12,Low,Truck over speed and hit to Two wheeler,Total Tempo/Vans,16,34,50,Low
+CHANDIGARH,Ludhiana,Bharathi Nagar,2016,Apr,18,High,Bus over speed and hit to Auto,Total Car,2,21,30,High
+CHANDIGARH,Moga,BTM Layout,2016,Apr,17,Medium,Two wheeler over speed skidding,Truck/Lorry (Government),13,22,30,Medium
+CHANDIGARH,Patiala,C V Raman Nagar,2016,Apr,14,Low,The car tyre puncher vehicle skidding on the carriageway,Bus (Government),17,21,20,Low
+CHANDIGARH,Mohali,Chickpete,2016,Apr,9,Low,Car over speed self accident,Bus (Private),2,23,40,Low
+CHANDIGARH,Khanna,Devasandra,2016,Apr,8,High,Car over speed hit to Truck,Tempo/Vans (Government),1,3,5,High
+CHANDIGARH,Phagwara,Dharmaraya Swamy Temple,2016,Apr,10,Medium,car over speed and hit to two wheeler,Tempo/Vans (Private),2,2,4,Medium
+CHANDIGARH,Abohar,Dodda Nekkundi,2016,Apr,20,Medium,Over speed car and Hit to the Road Pedestrian,Jeep (Government),4,3,5,Medium
+CHANDIGARH,Sri Muktsar Sahib,Domlur,2016,Apr,2,Low,Car over speed and hit to car,Car (Government),5,7,8,Low
+CHANDIGARH,Rajpura,Garudachar Playa,2016,Apr,1,Medium,Unknown vehicle hit to bike,Car (Private),8,23,25,Medium
+CHANDIGARH,Firozpur,Gurappanapalya,2016,Apr,5,Low,Car skidding on MCW because driver sleeping,Bicycle,11,12,30,Low
+CHANDIGARH,Kapurthala,Hagadur,2016,Apr,6,Medium,Fault of Road crossing pedestrian,Others (Please Specify),9,20,31,Medium
+CHANDIGARH,Faridkot,HAL Airport,2016,Apr,4,High,Two wheeler over speed Self accident,Total Bus,13,1,10,High
+CHANDIGARH,Sunam,Halsoor,2016,Apr,7,Low,Two wheeler over speed self accident,Total Tempo/Vans,20,4,21,Low
+CHANDIGARH,Rajpura,Hemmigepura,2016,Apr,23,Low,Car over speed and hit to car,Total Car,21,23,40,Low
+CHANDIGARH,Firozpur,Horamavu,2016,Apr,21,Low,Fault of road crossing pedestrian,Bus (Government),19,2,7,Low
+CHANDIGARH,Sunam,Hoysala Nagar,2016,Apr,12,Low,Drunk & Drive,Tempo/Vans (Private),22,24,23,Low
+CHANDIGARH,Patiala,HSR Layout,2016,Apr,31,Medium,TATA Ace Hit to Car over speeding,Jeep (Government),3,21,20,Medium
+CHHATTISGARH,Raipur,Hudi,2016,Apr,13,Medium,Car over speed and hit to Two wheeler,Car (Government),1,2,3,Medium
+CHHATTISGARH,Bilaspur,J P Nagar,2016,Apr,30,High,Bike over speed fault of Motor vehicle,Car (Private),10,22,23,High
+CHHATTISGARH,Korba,Jaraganahalli,2016,Apr,23,Medium,Car over speed and hit to run the Pedestrian,Three Wheeler,20,12,14,Medium
+CHHATTISGARH,Bhilai,Jayanagar East,2016,Apr,22,High,Fault of driver of Motor vehicle,Bicycle,21,34,40,High
+CHHATTISGARH,Ambikapur,Jeevanbhima Nagar,2016,May,20,Medium,Bike Drunk & Drive,Others (Please Specify),23,21,22,Medium
+CHHATTISGARH,Jagdalpur,Jogupalya,2016,May,11,Medium,Car over speed and hit to road crossing Pedestrian,Total Car,21,34,50,Medium
+CHHATTISGARH,Durg,K R Puram,2016,May,19,High,Car over speed vehicle out of control skidding,Tempo/Vans (Government),12,21,30,High
+CHHATTISGARH,Rajnandgaon,Kacharkanahalli,2016,May,18,Low,Car over speed vehicle out of control Self accident,Car (Government),15,22,30,Low
+CHHATTISGARH,Ratanpur,Kadugodi,2016,May,15,Medium,LCV over speed and hit to Truck. Driver sleep and Drink & Drive,Car (Private),13,21,20,Medium
+CHHATTISGARH,Bemetara,Kammanahalli,2016,May,14,Low,Bike,Bicycle,10,23,40,Low
+CHHATTISGARH,Gaurella,Konena Agrahara,2016,May,12,Low,car over speed and hit to two wheeler,Pedestrian,20,3,5,Low
+CHHATTISGARH,Saraipali,Madivala,2016,May,18,Medium,Total 3nos of vehicle accident in the spot,Others (Please Specify),5,2,4,Medium
+CHHATTISGARH,Bilha,Marathahalli,2016,May,17,Low,Total 3nos of vehicle accident in the spot,Total Car,6,3,5,Low
+CHHATTISGARH,Gharghoda,New Tippasandara,2016,May,14,Low,Self accident vehicle over speed,Tempo/Vans (Government),7,7,8,Low
+CHHATTISGARH,Janjgir,Other,2016,May,9,Medium,Self Accident Drunk & Drive,Jeep (Government),9,23,25,Medium
+CHHATTISGARH,Kurud,other,2016,May,8,Medium,Mini truck crushed with Truck. Negligent driving of Mini truck driver,Car (Government),1,12,30,Medium
+CHHATTISGARH,Naya Raipur,Ramamurthy Nagar,2016,May,10,High,Two wheeler overspeed and vehicle out of control skidding,Car (Private),12,20,31,High
+CHHATTISGARH,Arang,Sampangiram Nagar,2016,May,20,Low,Car over speed and hit to Car,Pedestrian,5,1,10,Low
+CHHATTISGARH,Pendra,Sarakki,2016,May,2,Medium,Fault of Pedestrian,Others (Please Specify),6,4,21,Medium
+CHHATTISGARH,Dhamdha,Shantala Nagar,2016,May,1,Medium,Negligent driving of the Auto driver,Total Car,3,23,40,Medium
+CHHATTISGARH,Bhatapara,Singasandra,2016,May,5,High,Bus over speed and hit to Car & LCV,Bus (Government),5,2,7,High
+D & N HAVELI,Silvassa,Sudham Nagara,2016,May,6,Low,Car over speed and hit to car,Tempo/Vans (Government),10,24,23,Low
+D & N HAVELI,Masat,Varthuru,2016,May,4,High,Car hit to road crossing pedestrian,Jeep (Government),12,21,20,High
+D & N HAVELI,Marwad,Vasanthpura,2016,May,7,Low,Drunk & Drive,Car (Government),15,2,3,Low
+D & N HAVELI,Dunetha,Vijnana Nagar,2016,May,23,Medium,Car over speed and hit to Auto vehicle out of control,Others (Please Specify),20,22,23,Medium
+D & N HAVELI,Daman,Vijnanapura,2016,May,21,High,Truck over speed and hit to car,Tempo/Vans (Government),2,12,14,High
+D & N HAVELI,Dadra,Yelchenahalli,2016,May,12,Low,Over Speed Vehicle out of Control,Car (Government),19,34,40,Low
+D & N HAVELI,Bhimpore,A Narayanapura,2016,May,31,High,car over speed and hit to two wheeler,Bicycle,17,21,22,High
+D & N HAVELI,Silvassa,Agaram,2016,May,13,High,Car over speed and hit to car,Others (Please Specify),16,34,50,High
+D & N HAVELI,Masat,Banasavadi,2016,May,30,Low,LCV over speed and hit to Truck,Bus (Government),2,21,30,Low
+D & N HAVELI,Marwad,Basavanapura,2016,May,23,High,Truck over speed and hit to Car,Tempo/Vans (Private),13,22,30,High
+D & N HAVELI,Dunetha,Bellanduru,2016,May,22,High,Unknown vehicle over speed and hit to two wheeler,Three Wheeler,17,21,20,High
+D & N HAVELI,Daman,Benniganahalli,2016,May,20,Low,Car over speed and hit to Two wheeler,Bicycle,2,23,40,Low
+D & N HAVELI,Dadra,Bharathi Nagar,2016,May,11,High,Over Speed of Car,Pedestrian,1,3,5,High
+D & N HAVELI,Bhimpore,BTM Layout,2016,May,19,Medium,Car,Tempo/Vans (Government),2,2,4,Medium
+D & N HAVELI,Silvassa,C V Raman Nagar,2016,May,18,Low,Truck over speed and hit to Two wheeler. Negligence Driving of Two wheeler.,Tempo/Vans (Private),4,3,5,Low
+D & N HAVELI,Masat,Chickpete,2016,May,15,Low,Bus over speed hit to LCV,Car (Government),5,7,8,Low
+D & N HAVELI,Marwad,Devasandra,2016,May,14,High,Car over speed self accident,Pedestrian,8,23,25,High
+D & N HAVELI,Dunetha,Dharmaraya Swamy Temple,2016,May,12,Medium,Two wheeler over speed and hit to Tractor,Total Tempo/Vans,11,12,30,Medium
+D & N HAVELI,Daman,Dodda Nekkundi,2016,Jun,18,Medium,car over speed and hit to two wheeler,Tempo/Vans (Government),9,20,31,Medium
+D & N HAVELI,Dadra,Domlur,2016,Jun,17,Low,Two wheeler over speed and hit to LCV,Tempo/Vans (Private),13,1,10,Low
+D & N HAVELI,Bhimpore,Garudachar Playa,2016,Jun,14,Medium,Self Accident Drunk & Drive,Car (Government),20,4,21,Medium
+DAMAN & DIU,Daman,Gurappanapalya,2016,Jun,9,Low,LCV over speed and hit to LCV,Bicycle,21,23,40,Low
+DAMAN & DIU,Diu,Hagadur,2016,Jun,8,Medium,Bike over speed fault of Motor vehicle,Others (Please Specify),19,2,7,Medium
+DAMAN & DIU,Dunetha,HAL Airport,2016,Jun,10,High,Bus over speed and hit to Agricultural vehicle.,Total Tempo/Vans,22,24,23,High
+DAMAN & DIU,Kachigam,Halsoor,2016,Jun,20,Low,LCV over speed self accident,Tempo/Vans (Government),3,21,20,Low
+DAMAN & DIU,Bhimpore,Hemmigepura,2016,Jun,2,Low,Car over speed self accident,Tempo/Vans (Private),1,2,3,Low
+DAMAN & DIU,Dadhel,Horamavu,2016,Jun,1,Low,Lorry over speed and Hit to Two wheeler,Car (Government),10,22,23,Low
+DAMAN & DIU,Marwad,Hoysala Nagar,2016,Jun,5,Low,Car over speed,Bicycle,20,12,14,Low
+DAMAN & DIU,Masat,HSR Layout,2016,Jun,6,Medium,Two wheeler over speed hit to Bus,Others (Please Specify),21,34,40,Medium
+DAMAN & DIU,Naroli,Hudi,2016,Jun,4,Medium,Two wheeler over speed Self accident,Total Tempo/Vans,23,21,22,Medium
+DAMAN & DIU,Silvassa,J P Nagar,2016,Jun,7,High,Bus over speed and hit to two wheeler,Jeep (Government),21,34,50,High
+DAMAN & DIU,Masat,Jaraganahalli,2017,Jun,23,Medium,Self accident over speed,Tempo/Vans (Government),12,21,30,Medium
+DAMAN & DIU,Marwad,Jayanagar East,2017,Jun,21,High,Truck ramped to car,Bicycle,15,22,30,High
+DAMAN & DIU,Dunetha,Jeevanbhima Nagar,2017,Jun,12,Medium,Maurthi van hit to Milk van over speed,Pedestrian,13,21,20,Medium
+DAMAN & DIU,Diu,Jogupalya,2017,Jun,31,Medium,Two wheeler over speed and hit to Road crossing pedestrian,Tempo/Vans (Government),10,23,40,Medium
+DAMAN & DIU,Bhimpore,K R Puram,2017,Jun,13,High,Bike over speed and hit to Tractor,Car (Government),20,3,5,High
+DAMAN & DIU,Marwad,Kacharkanahalli,2017,Jun,30,Low,Car,Bicycle,5,2,4,Low
+DAMAN & DIU,Masat,Kadugodi,2017,Jun,23,Medium,Bus over speed. Defects in mechanical condition,Others (Please Specify),6,3,5,Medium
+DAMAN & DIU,Naroli,Kammanahalli,2017,Jun,22,Low,Drunk & Drive of car driver,Truck/Lorry (Government),7,7,8,Low
+DAMAN & DIU,Kachigam,Konena Agrahara,2017,Jun,20,Low,"Truck over speed, vehicle out of control and vehicle skidding the shoulder side",Tempo/Vans (Government),9,23,25,Low
+DAMAN & DIU,Diu,Madivala,2017,Jun,11,Medium,Car hit to the other car because of over speed on the carriageway and vehicle out of control,Jeep (Government),1,12,30,Medium
+DAMAN & DIU,Daman,Marathahalli,2017,Jun,19,Low,Two wheeler over speed Self accident,Car (Government),12,20,31,Low
+DELHI (UT),Delhi Cantonment,New Tippasandara,2017,Jun,18,Low,Two wheeler over speed Self accident,Tempo/Vans (Government),5,1,10,Low
+DELHI (UT),Faridabad,Other,2017,Jun,15,Medium,Truck over speed and hit to Truck,Car (Government),6,4,21,Medium
+DELHI (UT),Agra,other,2017,Jun,14,Medium,Truck over speed and hit to Two wheeler,Truck/Lorry (Government),3,23,40,Medium
+DELHI (UT),Chanakyapuri,Ramamurthy Nagar,2017,Jun,12,High,Two wheeler over speed in the carriageway in front of vehicle suddenly overtaking the two wheeler out of control and skidding on the carriageway,Bus (Government),5,2,7,High
+DELHI (UT),Karawal Nagar,Sampangiram Nagar,2017,Jun,18,Low,Car over speed and hit to Two wheeler,Tempo/Vans (Government),10,24,23,Low
+DELHI (UT),Kondli,Sarakki,2017,Jun,17,Medium,Self accident Drunk & Drive,Car (Government),12,21,20,Medium
+DELHI (UT),Vasant Kunj,Shantala Nagar,2017,Jun,14,Medium,Car over speed and hit to car,Truck/Lorry (Government),15,2,3,Medium
+DELHI (UT),Pitam Pura,Singasandra,2017,Jun,9,High,Unknown vehicle hit and run while road crossing,Tempo/Vans (Government),20,22,23,High
+DELHI (UT),Najafgarh,Sudham Nagara,2017,Jun,8,Low,0,Jeep (Government),2,12,14,Low
+DELHI (UT),Kanjhawala,Varthuru,2017,Jun,10,High,Car Hit to the Multi axle,Tempo/Vans (Government),19,34,40,High
+DELHI (UT),Kirari Suleman Nagar,Vasanthpura,2017,Jul,20,Low,Car over speed,Car (Government),17,21,22,Low
+DELHI (UT),Bawana,Vijnana Nagar,2017,Jul,2,Medium,Car over speed,Truck/Lorry (Government),16,34,50,Medium
+DELHI (UT),Jafrabad,Vijnanapura,2017,Jul,1,High,Multi axle over speed and hit to Multi axle,Bus (Government),2,21,30,High
+DELHI (UT),Deoli,Yelchenahalli,2017,Jul,5,Low,Bike,Tempo/Vans (Government),13,22,30,Low
+DELHI (UT),Shahpur Jat,A Narayanapura,2017,Jul,6,High,car over speed and hit to two wheeler,Tempo/Vans (Private),17,21,20,High
+DELHI (UT),Mundka,Agaram,2017,Jul,4,High,Unknown vehicle hit and run while road crossing,Jeep (Private),2,23,40,High
+DELHI (UT),Siraspur,Banasavadi,2017,Jul,7,Low,Truck over speed and hit to Bus,Total Tempo/Vans,1,3,5,Low
+DELHI (UT),Pitam Pura,Basavanapura,2017,Jul,23,High,car over speed and hit to Bus,Truck/Lorry (Government),2,2,4,High
+DELHI (UT),Najafgarh,Bellanduru,2017,Jul,21,High,car over speed hit to road crossing Pedestrian,Truck/Lorry (Private),4,3,5,High
+DELHI (UT),Kirari Suleman Nagar,Benniganahalli,2017,Jul,12,Low,Two wheeler over speed Self accident,Bus (Government),5,7,8,Low
+DELHI (UT),Pitam Pura,Bharathi Nagar,2017,Jul,31,High,Two wheeler riding and over speed hit to Truck,Bus (Private),8,23,25,High
+GOA,Bicholim,BTM Layout,2017,Jul,13,Medium,LCV over speed self accident due to defect in mechanical condition,Tempo/Vans (Government),11,12,30,Medium
+GOA,Canacona,C V Raman Nagar,2017,Jul,30,Low,Two wheeler over speed Drunk & Drive,Tempo/Vans (Private),9,20,31,Low
+GOA,Ponda,Chickpete,2017,Jul,23,Low,Car over speed vehicle out of control,Jeep (Government),13,1,10,Low
+GOA,Pernem,Devasandra,2017,Jul,22,High,car over speed and hit to two wheeler,Car (Government),20,4,21,High
+GOA,Quepem,Dharmaraya Swamy Temple,2017,Jul,20,Medium,Car over speed and hit to road crossing Pedestrian,Total Truck/Lorry,21,23,40,Medium
+GOA,Sanguem,Dodda Nekkundi,2017,Jul,11,Medium,Truck hit to Car,Total Bus,19,2,7,Medium
+GOA,Sanquelim,Domlur,2017,Jul,19,Low,Truck over speed and hit to Auto,Total Tempo/Vans,22,24,23,Low
+GOA,Cuncolim,Garudachar Playa,2017,Jul,18,Medium,Multi axle over speed and hit to Two wheeler,Truck/Lorry (Government),3,21,20,Medium
+GOA,Mapusa,Gurappanapalya,2017,Jul,15,Low,Self accident Two wheeler over speed,Truck/Lorry (Private),1,2,3,Low
+GOA,Mormugao,Hagadur,2017,Jul,14,Medium,Car over speed and vehicle out of control,Bus (Private),10,22,23,Medium
+GOA,Bicholim,HAL Airport,2017,Jul,12,High,Truck overtaking and Hit to the KSRTC Bus,Tempo/Vans (Government),20,12,14,High
+GOA,Canacona,Halsoor,2017,Jul,18,Low,Mini Truck,Tempo/Vans (Private),21,34,40,Low
+GOA,Ponda,Hemmigepura,2017,Jul,17,Low,Car over speed and hit to Two wheeler,Jeep (Government),23,21,22,Low
+GOA,Quepem,Horamavu,2017,Aug,14,Low,Over speed of Motor Vehicle,Jeep (Private),21,34,50,Low
+GOA,Sanguem,Hoysala Nagar,2017,Aug,9,Low,car over speed and hit to two wheeler,Car (Government),12,21,30,Low
+GOA,Sanquelim,HSR Layout,2017,Aug,8,Medium,Car over speed and hit to road crossing pedestrian. Fault of Pedestrian.,Total Truck/Lorry,15,22,30,Medium
+GOA,Cuncolim,Hudi,2017,Aug,10,Medium,Two wheeler over speed Hit to LCV and skidding,Total Tempo/Vans,13,21,20,Medium
+GOA,Mapusa,J P Nagar,2017,Aug,20,High,Truck over speed and hit to Car,Total Jeep,10,23,40,High
+GOA,Mormugao,Jaraganahalli,2017,Aug,2,Medium,Two wheeler over speed and hit to two wheeler,Truck/Lorry (Government),20,3,5,Medium
+GOA,Bicholim,Jayanagar East,2017,Aug,1,High,Truck over speed and hit to Car,Bus (Private),5,2,4,High
+GOA,Canacona,Jeevanbhima Nagar,2017,Aug,5,Medium,Two wheeler over speed Self accident,Tempo/Vans (Government),6,3,5,Medium
+GOA,Canacona,Jogupalya,2017,Aug,6,Medium,Bike over speed fault of Motor vehicle,Tempo/Vans (Private),7,7,8,Medium
+GUJARAT,Ahmedabad,K R Puram,2017,Aug,4,High,Vehicle parking in shoulder portion back side the two wheeler over speed come and Hit to the Loory,Jeep (Government),9,23,25,High
+GUJARAT,Rajkot,Kacharkanahalli,2017,Aug,7,Low,Car over speed and hit to car,Jeep (Private),1,12,30,Low
+GUJARAT,Surat,Kadugodi,2017,Aug,23,Medium,Car over speed and hit to car,Car (Government),12,20,31,Medium
+GUJARAT,Vadodara,Kammanahalli,2017,Aug,21,Low,Car over speed and hit to Auto,Total Tempo/Vans,5,1,10,Low
+GUJARAT,Porbandar,Konena Agrahara,2017,Aug,12,Low,Drunk & Drive,Total Jeep,6,4,21,Low
+GUJARAT,Bharuch,Madivala,2017,Aug,31,Medium,car over speed and hit to two wheeler. Defects in mechanical condition,Truck/Lorry (Government),3,23,40,Medium
+GUJARAT,Patan,Marathahalli,2017,Aug,13,Low,Car over speed and hit to Two wheeler,Truck/Lorry (Private),5,2,7,Low
+GUJARAT,Navsari,New Tippasandara,2017,Aug,30,Low,Fault of driver of Motor vehicle,Bus (Private),10,24,23,Low
+GUJARAT,Ahmedabad,Other,2017,Aug,23,Medium,Bike over speed hit to car,Tempo/Vans (Government),12,21,20,Medium
+GUJARAT,Rajkot,other,2017,Aug,22,Medium,Car over speed hit to run,Tempo/Vans (Private),15,2,3,Medium
+GUJARAT,Surat,Ramamurthy Nagar,2017,Aug,20,High,Bus over speed and hit to Bike,Jeep (Private),20,22,23,High
+GUJARAT,Vadodara,Sampangiram Nagar,2017,Aug,11,Low,Car,Car (Government),2,12,14,Low
+GUJARAT,Porbandar,Sarakki,2017,Aug,19,Medium,Car,Total Truck/Lorry,19,34,40,Medium
+GUJARAT,Bharuch,Shantala Nagar,2017,Aug,18,Medium,Bike,Total Tempo/Vans,17,21,22,Medium
+GUJARAT,Patan,Singasandra,2017,Sep,15,High,Fault of Agricultural vehicle hit to Truck,Truck/Lorry (Government),16,34,50,High
+GUJARAT,Navsari,Sudham Nagara,2017,Sep,14,Low,Car over speed vehicle out of control Self accident,Truck/Lorry (Private),2,21,30,Low
+GUJARAT,Ahmedabad,Varthuru,2017,Sep,12,High,Two wheeler over speed and hit to truck,Bus (Government),13,22,30,High
+GUJARAT,Rajkot,Vasanthpura,2017,Sep,18,Low,Two wheeler over speed Self accident,Bus (Private),17,21,20,Low
+GUJARAT,Surat,Vijnana Nagar,2017,Sep,17,Medium,Car over speed self accident. Drunken & Drive,Tempo/Vans (Government),2,23,40,Medium
+GUJARAT,Vadodara,Vijnanapura,2017,Sep,14,High,Self Accident Drunk & Drive,Tempo/Vans (Private),1,3,5,High
+GUJARAT,Porbandar,Yelchenahalli,2017,Sep,9,Low,Self accident due to vehicle tyre puncher and over speed vehicle out of control,Jeep (Government),2,2,4,Low
+GUJARAT,Bharuch,A Narayanapura,2017,Sep,8,High,Car over speed and hit to road crossing pedestrian. Fault of Pedestrian.,Jeep (Private),4,3,5,High
+HARYANA,Gurugram,Agaram,2017,Sep,10,High,Car over speed self accident,Car (Government),5,7,8,High
+HARYANA,Faridabad,Banasavadi,2017,Sep,20,Low,Two wheeler over speed self accident,Total Truck/Lorry,8,23,25,Low
+HARYANA,Rohtak,Basavanapura,2017,Sep,2,High,Truck over speed and hit to road crossing pedestrian,Total Bus,11,12,30,High
+HARYANA,Hisar,Bellanduru,2017,Sep,1,High,Truck over speed and hit to LCV,Total Tempo/Vans,9,20,31,High
+HARYANA,Panipat,Benniganahalli,2017,Sep,5,Low,Car over speed and hit to road crossing two wheeler,Total Jeep,13,1,10,Low
+HARYANA,Ambala,Bharathi Nagar,2017,Sep,6,High,Two wheeler over speed and hit to Car,Truck/Lorry (Government),20,4,21,High
+HARYANA,Karnal,BTM Layout,2017,Sep,4,Medium,Car Hit to Truck,Truck/Lorry (Private),21,23,40,Medium
+HARYANA,Sonipat,C V Raman Nagar,2017,Sep,7,Low,Car over speed and hit to Truck,Bus (Private),19,2,7,Low
+HARYANA,Jind,Chickpete,2017,Sep,23,Low,Two wheeler over speed and hit to car,Tempo/Vans (Government),22,24,23,Low
+HARYANA,Yamuna Nagar,Devasandra,2017,Sep,21,High,Two wheeler over speed Self accident,Jeep (Government),3,21,20,High
+HARYANA,Sirsa,Dharmaraya Swamy Temple,2017,Sep,12,Medium,Truck over speed and hit to car,Jeep (Private),1,2,3,Medium
+HARYANA,Gurugram,Dodda Nekkundi,2017,Sep,31,Medium,Fault of car vehicle over speed and hit to bike,Car (Government),10,22,23,Medium
+HARYANA,Faridabad,Domlur,2017,Sep,13,Low,Two wheeler over speed Self accident due to defect in mechanical condition,Total Truck/Lorry,20,12,14,Low
+HARYANA,Rohtak,Garudachar Playa,2017,Sep,30,Medium,Car U turn the opening that time opposite car over speed and hit to car,Total Jeep,21,34,40,Medium
+HARYANA,Hisar,Gurappanapalya,2017,Sep,23,Low,Car Hit and run,Truck/Lorry (Government),23,21,22,Low
+HARYANA,Panipat,Hagadur,2017,Sep,22,Medium,Mini Truck,Truck/Lorry (Private),21,34,50,Medium
+HARYANA,Ambala,HAL Airport,2017,Sep,20,High,Car hit to two wheeler. Fault of two wheeler illegal opening crossing,Bus (Government),12,21,30,High
+HARYANA,Karnal,Halsoor,2017,Sep,11,Low,Three wheeler Driver Drunk & Drive,Tempo/Vans (Government),15,22,30,Low
+HARYANA,Sonipat,Hemmigepura,2017,Sep,19,Low,Car over speed and hit to the lorry,Tempo/Vans (Private),13,21,20,Low
+HARYANA,Jind,Horamavu,2017,Sep,18,Low,Truck over speed and hit to Two wheeler,Jeep (Government),10,23,40,Low
+HARYANA,Yamuna Nagar,Hoysala Nagar,2017,Sep,15,Low,Rash driving of Tractor and Hit to Mini bus,Jeep (Private),20,3,5,Low
+HARYANA,Sirsa,HSR Layout,2017,Oct,14,Medium,Car over speed and hit to Two wheeler,Car (Government),5,2,4,Medium
+HARYANA,Kurukshetra,Hudi,2018,Oct,12,Medium,The vehicle hit and run,Total Truck/Lorry,6,3,5,Medium
+HIMACHAL PRADESH,Shimla,J P Nagar,2018,Oct,18,High,Two wheeler over speed Self accident,Total Tempo/Vans,7,7,8,High
+HIMACHAL PRADESH,Dharamsala,Jaraganahalli,2018,Oct,17,Medium,Truck over speed and hit to Car,Total Jeep,9,23,25,Medium
+HIMACHAL PRADESH,Solan,Jayanagar East,2018,Oct,14,High,Two wheeler over speed and hit to Road Pedestrian,Truck/Lorry (Government),1,12,30,High
+HIMACHAL PRADESH,Mandi,Jeevanbhima Nagar,2018,Oct,9,Medium,car over speed and hit to two wheeler,Truck/Lorry (Private),12,20,31,Medium
+HIMACHAL PRADESH,Palampur,Jogupalya,2018,Oct,8,Medium,car over speed and hit to two wheeler,Tempo/Vans (Government),5,1,10,Medium
+HIMACHAL PRADESH,Baddi,K R Puram,2018,Oct,10,High,Truck tyre burst self accident,Tempo/Vans (Private),6,4,21,High
+HIMACHAL PRADESH,Nahan,Kacharkanahalli,2018,Oct,20,Low,Truck tyre burst self accident,Jeep (Government),3,23,40,Low
+HIMACHAL PRADESH,Paonta Sahib ,Kadugodi,2018,Oct,2,Medium,Car over speed and Hit to Agricultural vehicle,Jeep (Private),5,2,7,Medium
+HIMACHAL PRADESH,Chamba,Kammanahalli,2018,Oct,1,Low,Car over speed and hit to Truck,Car (Government),10,24,23,Low
+HIMACHAL PRADESH,Una,Konena Agrahara,2018,Oct,5,Low,Self accident over speed and skidding,Total Truck/Lorry,12,21,20,Low
+HIMACHAL PRADESH,Kullu,Madivala,2018,Oct,6,Medium,Drunk & Drive Two wheeler,Total Tempo/Vans,15,2,3,Medium
+HIMACHAL PRADESH,Hamirpur,Marathahalli,2018,Oct,4,Low,Bike Over Speed Drunken and Drive,Total Jeep,20,22,23,Low
+HIMACHAL PRADESH,Bilaspur,New Tippasandara,2018,Oct,7,Low,Truck over speed and hit to car,Truck/Lorry (Government),2,12,14,Low
+HIMACHAL PRADESH,Parw?noo,Other,2018,Oct,23,Medium,Two wheeler over speed self accident,Truck/Lorry (Private),19,34,40,Medium
+HIMACHAL PRADESH,Santokhgarh,other,2018,Oct,21,Medium,Two wheeler over speed and hit to Two wheeler,Bus (Government),17,21,22,Medium
+HIMACHAL PRADESH,Rohru,Ramamurthy Nagar,2018,Nov,12,High,Car over speed and hit to car,Bus (Private),16,34,50,High
+HIMACHAL PRADESH,Theog,Sampangiram Nagar,2018,Nov,31,Low,Two wheeler over speed self accident,Tempo/Vans (Government),2,21,30,Low
+HIMACHAL PRADESH,Gagret,Sarakki,2018,Nov,13,Medium,Bike over speed fault of Motor vehicle,Tempo/Vans (Private),13,22,30,Medium
+HIMACHAL PRADESH,Hamirpur,Shantala Nagar,2018,Nov,30,Medium,The car driver sleeping vehicle out of control- non injured,Jeep (Government),17,21,20,Medium
+HIMACHAL PRADESH,Bilaspur,Singasandra,2018,Nov,23,High,Lorry,Jeep (Private),2,23,40,High
+HIMACHAL PRADESH,Parw?noo,Sudham Nagara,2018,Nov,22,Low,Car over speed and hit to Bus,Car (Government),1,3,5,Low
+JAMMU & KASHMIR,Srinagar,Varthuru,2018,Nov,20,High,Car over speed and hit to Bike,Total Truck/Lorry,2,2,4,High
+JAMMU & KASHMIR,Jammu,Vasanthpura,2018,Nov,11,Low,Multi axle over speed self accident,Total Bus,4,3,5,Low
+JAMMU & KASHMIR,Anantnag,Vijnana Nagar,2018,Nov,19,Medium,Truck over speed and hit to the parked truck,Total Tempo/Vans,5,7,8,Medium
+JAMMU & KASHMIR,Udhampur,Vijnanapura,2018,Nov,18,High,Car over speed Driver sleeping vehicle skidding,Total Jeep,8,23,25,High
+JAMMU & KASHMIR,Baramula,Yelchenahalli,2018,Nov,15,Low,Car over speed vehicle out of control Self accident,Truck/Lorry (Government),11,12,30,Low
+JAMMU & KASHMIR,Kathua,A Narayanapura,2018,Nov,14,High,car over speed and hit to two wheeler,Truck/Lorry (Private),9,20,31,High
+JAMMU & KASHMIR,Ganderbal,Agaram,2018,Nov,12,High,Bike over speed and skidding self Accident,Bus (Government),13,1,10,High
+JAMMU & KASHMIR,Punch,Banasavadi,2018,Nov,18,Low,BUS Hit to LCV,Bus (Private),20,4,21,Low
+JAMMU & KASHMIR,Kulgam,Basavanapura,2018,Nov,17,High,Car over speed and Hit to two wheeler,Tempo/Vans (Government),21,23,40,High
+JAMMU & KASHMIR,Doda,Bellanduru,2018,Nov,14,High,Car over speed and Hit to Two wheeler,Tempo/Vans (Private),19,2,7,High
+JAMMU & KASHMIR,Akhnoor,Benniganahalli,2018,Nov,9,Low,The car hit to the road pedestrian the fault of car over speed,Jeep (Government),22,24,23,Low
+JAMMU & KASHMIR,Duru Verinag,Bharathi Nagar,2018,Nov,8,High,Car over speed and hit to Two wheeler,Jeep (Private),3,21,20,High
+JAMMU & KASHMIR,Sopore,BTM Layout,2018,Nov,10,Medium,LCV over speed and Hit to Two wheeler,Car (Government),1,2,3,Medium
+JAMMU & KASHMIR,Udhampur,C V Raman Nagar,2018,Nov,20,Low,LCV over speed self accident due to defect in mechanical condition,Total Truck/Lorry,10,22,23,Low
+JAMMU & KASHMIR,Baramula,Chickpete,2018,Nov,2,Low,Two wheeler over speed and hit to Multi axle,Total Bus,20,12,14,Low
+JAMMU & KASHMIR,Srinagar,Devasandra,2018,Nov,1,High,Driver sleeping,Total Tempo/Vans,21,34,40,High
+JAMMU & KASHMIR,Jammu,Dharmaraya Swamy Temple,2018,Nov,5,Medium,Car over speed and hit to road crossing Pedestrian,Total Jeep,23,21,22,Medium
+JAMMU & KASHMIR,Anantnag,Dodda Nekkundi,2018,Nov,6,Medium,Two wheeler over speed and hit to Mini Bus,Truck/Lorry (Government),21,34,50,Medium
+JAMMU & KASHMIR,Udhampur,Domlur,2018,Dec,4,Low,Truck over speed hit to JCB,Truck/Lorry (Private),12,21,30,Low
+JAMMU & KASHMIR,Baramula,Garudachar Playa,2018,Dec,7,Medium,Car hit to road crossing pedestrian,Bus (Government),15,22,30,Medium
+JAMMU & KASHMIR,Kathua,Gurappanapalya,2018,Dec,23,Low,car over speed and hit to two wheeler,Bus (Private),13,21,20,Low
+JAMMU & KASHMIR,Ganderbal,Hagadur,2018,Dec,21,Medium,Car over speed and hit to road crossing Pedestrian. Fault of Road crossing pedestrian,Tempo/Vans (Government),10,23,40,Medium
+JAMMU & KASHMIR,Punch,HAL Airport,2018,Dec,12,High,Two wheeler over speed self accident,Jeep (Government),20,3,5,High
+JAMMU & KASHMIR,Srinagar,Halsoor,2018,Dec,31,Low,car over speed and hit to Auto,Car (Government),5,2,4,Low
+JHARKHAND,Dumka,Hemmigepura,2018,Dec,13,Low,Two wheeler over speed Self accident,Total Truck/Lorry,6,3,5,Low
+JHARKHAND,Hazaribagh,Horamavu,2018,Dec,30,Low,Two wheeler over speed Drunk & Drive,Total Bus,7,7,8,Low
+JHARKHAND,Dhanbad,Hoysala Nagar,2018,Dec,23,Low,Bike over speed and vehicle skidding,Tempo/Vans (Government),9,23,25,Low
+JHARKHAND,Jamshedpur,HSR Layout,2018,Dec,22,Medium,Multi Axle over speed and hit to Two wheeler,Car (Government),1,12,30,Medium
+JHARKHAND,Hazaribagh,Hudi,2018,Dec,20,Medium,Self accident due to vehicle tyre puncher and over speed vehicle out of control,Bus (Government),12,20,31,Medium
+JHARKHAND,Bokaro Steel City,J P Nagar,2018,Dec,11,High,Bike over speed fault of Motor vehicle,Tempo/Vans (Government),5,1,10,High
+JHARKHAND,Ranchi,Jaraganahalli,2018,Dec,19,Medium,Car over speed and hit to car. Negligence driving,Car (Government),6,4,21,Medium
+JHARKHAND,Daltonganj,Jayanagar East,2018,Dec,18,High,Car over speed and hit to Agriculture vehicle.,Truck/Lorry (Government),3,23,40,High
+JHARKHAND,Deoghar,Jeevanbhima Nagar,2018,Dec,15,Medium,Car over speed in carriageway and overtaking the another vehicle and Cross the road of other vehicle to Hit in Junction portion,Bus (Government),5,2,7,Medium
+JHARKHAND,Giridih,Jogupalya,2018,Dec,14,Medium,Two wheeler over speed and hit to Car,Bus (Government),10,24,23,Medium
+JHARKHAND,Phusro,K R Puram,2018,Dec,12,High,Car over speed self accident,Truck/Lorry (Government),12,21,20,High
+JHARKHAND,Gumia,Kacharkanahalli,2018,Dec,18,Low,Self Accident Drunk & Drive,Bus (Government),15,2,3,Low
+JHARKHAND,Bermo,Kadugodi,2018,Dec,17,Medium,Car over speed self accident,Tempo/Vans (Government),20,22,23,Medium
+JHARKHAND,Dumka,Kammanahalli,2018,Dec,14,Low,Two wheeler over speed Self accident,Truck/Lorry (Government),2,12,14,Low
+JHARKHAND,Hazaribagh,Konena Agrahara,2018,Dec,9,Low,Car over speed vehicle out of control due to defects in mechanical condition and Hit to the two wheeler,Tempo/Vans (Government),19,34,40,Low
+JHARKHAND,Dhanbad,Madivala,2018,Dec,8,Medium,Two wheeler over speed and hit to Two wheeler,Tempo/Vans (Government),17,21,22,Medium
+JHARKHAND,Jamshedpur,Marathahalli,2018,Dec,10,Low,Drunken and Drive,Car (Government),16,34,50,Low
+JHARKHAND,Hazaribagh,New Tippasandara,2018,Dec,20,Low,Omini,Tempo/Vans (Government),2,21,30,Low
+JHARKHAND,Bokaro Steel City,Other,2018,Dec,2,Medium,car over speed and hit to two wheeler,Car (Government),13,22,30,Medium
+JHARKHAND,Ranchi,other,2018,Dec,1,Medium,car over speed and hit to two wheeler,Car (Government),17,21,20,Medium
+JHARKHAND,Daltonganj,Ramamurthy Nagar,2018,Dec,5,High,Unknown vehicle over speed and hit to two wheeler,Truck/Lorry (Government),2,23,40,High
+KARNATAKA,Bangalore,Sampangiram Nagar,2018,Dec,6,Low,Two wheeler over speed self accident,Bus (Private),1,3,5,Low
+KARNATAKA,Darwada,Sarakki,2018,Dec,4,Medium,Multi axle wrong route driving and hit to car,Tempo/Vans (Government),2,2,4,Medium
+KARNATAKA,Davanagere,Shantala Nagar,2018,Dec,7,Medium,Bike drunk & drive,Jeep (Government),4,3,5,Medium
+KARNATAKA,Hubli,Singasandra,2018,Dec,23,High,Truck over speed and hit to Two wheeler,Jeep (Private),5,7,8,High
+KARNATAKA,Bagalkote,Sudham Nagara,2018,Dec,21,Low,Bike,Car (Government),8,23,25,Low
+KARNATAKA,Gulburga,Varthuru,2018,Dec,12,High,"Truck over speed, Self accident. Defect in mechanical conditions.",Total Jeep,11,12,30,High
+KARNATAKA,Mysore,Vasanthpura,2018,Dec,31,Low,Car hit to the other car because of over speed on the carriageway and vehicle out of control,Truck/Lorry (Government),9,20,31,Low
+KARNATAKA,Mangalore,Vijnana Nagar,2018,Dec,13,Medium,Car hit to the other car because of over speed on the carriageway and vehicle out of control,Bus (Government),13,1,10,Medium
+KARNATAKA,Udupi,Vijnanapura,2018,Dec,30,High,Car over speed and hit to car,Tempo/Vans (Government),20,4,21,High
+KARNATAKA,Ranebennur,Yelchenahalli,2018,Dec,23,Low,Unknown vehicle over speed and hit to two wheeler,Tempo/Vans (Private),21,23,40,Low
+KARNATAKA,Chitradurga,A Narayanapura,2018,Dec,22,High,LCV over speed and hit to Truck,Jeep (Government),19,2,7,High
+KARNATAKA,Tumkur,Agaram,2018,Dec,20,High,Car over speed and hit to Bike,Jeep (Private),22,24,23,High
+KARNATAKA,Siraspur,Banasavadi,2018,Dec,11,Low,Car over speed and hit to car,Car (Government),3,21,20,Low
+KARNATAKA,sira,Basavanapura,2018,Dec,19,High,Car over speed hit to Three wheeler,Total Tempo/Vans,1,2,3,High
+KARNATAKA,Shivamogga,Bellanduru,2018,Dec,18,High,Truck over speed and hit to car,Total Jeep,10,22,23,High
+KARNATAKA,Bidar,Benniganahalli,2018,Dec,15,Low,Unknown vehicle hit and run,Truck/Lorry (Government),20,12,14,Low
+KARNATAKA,Ballary,Bharathi Nagar,2018,Dec,14,High,Truck over speed and hit to LCV,Tempo/Vans (Government),21,34,40,High
+KARNATAKA,Bijapur,BTM Layout,2018,Dec,12,Medium,Fault of driver of Motor vehicle,Jeep (Government),23,21,22,Medium
+KARNATAKA,Ganavati,C V Raman Nagar,2018,Dec,18,Low,BBMP vehicle break down in Main carriage way another vehicle back side coming over speed the vehicle hit to the break down vehicle and vehicle skidding in centre of the road oppsite side KSRTC bus come in the main carraigeway that vehicle suddenly break the vehcile to hit median guard rail,Car (Government),21,34,50,Low
+KARNATAKA,mandya,Chickpete,2018,Dec,17,Low,Car over speed and hit to jeep,Truck/Lorry (Government),12,21,30,Low
+KARNATAKA,Chikmangalore,Devasandra,2018,Dec,14,High,Multi axle over speed and hit to LCV,Bus (Government),15,22,30,High
+KERALA,Thiruvananthapuram,Dharmaraya Swamy Temple,2019,Dec,9,Medium,Bus over speed and Hit to Road crossing Pedestrian,Tempo/Vans (Government),13,21,20,Medium
+KERALA,Kozhikode,Dodda Nekkundi,2019,Dec,8,Medium,Bus over speed and Hit to Road crossing Pedestrian,Jeep (Government),10,23,40,Medium
+KERALA,Kochi,Domlur,2019,Jan ,10,Low,Car over speed and Hit to LCV,Jeep (Private),20,3,5,Low
+KERALA,Thrissur,Garudachar Playa,2019,Jan ,20,Medium,LCV over speed vehicle out of control self accident,Car (Government),5,2,4,Medium
+KERALA,Kollam,Gurappanapalya,2019,Jan ,2,Low,Car U turn the opening that time opposite car over speed and hit to car,Car (Private),6,3,5,Low
+KERALA,Kannur,Hagadur,2019,Jan ,1,Medium,Two wheeler over speed and hit to truck,Total Jeep,7,7,8,Medium
+KERALA,Kasaragod,HAL Airport,2019,Jan ,5,High,Car over speed self accident,Total Car,9,23,25,High
+KERALA,Vatakara,Halsoor,2019,Jan ,6,Low,Car over speed Tyre blast vehicle out of control,Truck/Lorry (Government),1,12,30,Low
+KERALA,Pathanamthitta,Hemmigepura,2019,Jan ,4,Low,Car over speed vehicle out of control Self accident,Bus (Government),12,20,31,Low
+KERALA,Koyilandy,Horamavu,2019,Jan ,7,Low,Car over speed and Hit to Govt. Bus,Bus (Private),5,1,10,Low
+KERALA,Tirur,Hoysala Nagar,2019,Jan ,23,Low,Truck over speed and hit to Two wheeler,Tempo/Vans (Government),6,4,21,Low
+KERALA,Varkala,HSR Layout,2019,Jan ,21,Medium,Car over speed and hit to Two wheeler,Jeep (Government),3,23,40,Medium
+KERALA,Kanhangad,Hudi,2019,Jan ,12,Medium,Drunk & Drive Bike,Car (Government),5,2,7,Medium
+KERALA,Kollam,J P Nagar,2019,Jan ,31,High,Truck over speed and hit to Car,Bicycle,10,24,23,High
+KERALA,Kannur,Jaraganahalli,2019,Jan ,13,Medium,Two wheeler over speed and hit to two wheeler,Pedestrian,12,21,20,Medium
+KERALA,Kasaragod,Jayanagar East,2019,Jan ,30,High,Bike over speed and vehicle skidding,Total Bus,15,2,3,High
+KERALA,Vatakara,Jeevanbhima Nagar,2019,Jan ,23,Medium,Car over speed self accident. Defects in mechanical condition,Truck/Lorry (Government),20,22,23,Medium
+KERALA,Pathanamthitta,Jogupalya,2019,Jan ,22,Medium,Car over speed self accident. Defects in mechanical condition,Tempo/Vans (Government),2,12,14,Medium
+KERALA,Koyilandy,K R Puram,2019,Jan ,20,High,Two wheeler over speed and skidding,Jeep (Government),19,34,40,High
+KERALA,Tirur,Kacharkanahalli,2019,Jan ,11,Low,Self accident,Jeep (Private),17,21,22,Low
+KERALA,Varkala,Kadugodi,2019,Jan ,19,Medium,Two wheeler over speed and skidding,Car (Government),16,34,50,Medium
+LAKSHADWEEP,Kavaratti,Kammanahalli,2019,Jan ,18,Low,Car over speed and Hit to LCV,Car (Private),2,21,30,Low
+LAKSHADWEEP,Kavaratti,Konena Agrahara,2019,Jan ,15,Low,Car over speed and hit to Two wheeler,Bicycle,13,22,30,Low
+LAKSHADWEEP,Kavaratti,Madivala,2019,Jan ,14,Medium,Truck over speed and Hit to the Two wheeler,Pedestrian,17,21,20,Medium
+LAKSHADWEEP,Kavaratti,Marathahalli,2019,Jan ,12,Low,Omni car wrong side driving Hit to Tata Indica,Total Jeep,2,23,40,Low
+LAKSHADWEEP,Kavaratti,New Tippasandara,2019,Jan ,18,Low,TATA Ace Break Down vehicle parked in shoulder side another one vehicle Back side car over speed and Hit to TATA Ace and Median lane Car was over speed suddenly vehicle out off control again hit to shoulder lane car Total this portion contnius 6 vehicle are accident,Total Car,1,3,5,Low
+LAKSHADWEEP,Kavaratti,Other,2019,Jan ,17,Medium,car over speed and hit to two wheeler,Truck/Lorry (Government),2,2,4,Medium
+LAKSHADWEEP,Kavaratti,other,2019,Jan ,14,Medium,Car over speed vehicle out of control,Bus (Government),4,3,5,Medium
+LAKSHADWEEP,Kavaratti,Ramamurthy Nagar,2019,Jan ,9,High,LCV hit to Bike,Tempo/Vans (Government),5,7,8,High
+LAKSHADWEEP,Kavaratti,Sampangiram Nagar,2019,Jan ,8,Low,Bike over speed and Hit to the tanker,Jeep (Government),8,23,25,Low
+LAKSHADWEEP,Minicoy,Sarakki,2019,Jan ,10,Medium,LCV over speed and hit to Two wheeler,Car (Government),11,12,30,Medium
+LAKSHADWEEP,Minicoy,Shantala Nagar,2019,Jan ,20,Medium,LCV over speed and Hit to Two wheeler,Bicycle,9,20,31,Medium
+LAKSHADWEEP,Minicoy,Singasandra,2019,Feb,2,High,Car over speed and hit to Two wheeler on over turn,Pedestrian,13,1,10,High
+LAKSHADWEEP,Minicoy,Sudham Nagara,2019,Mar,1,Low,Fault of car vehicle over speed and hit to bike,Bus (Government),20,4,21,Low
+LAKSHADWEEP,Amini Island,Varthuru,2019,Mar,5,High,Fault of car vehicle over speed and hit to bike,Jeep (Government),21,23,40,High
+LAKSHADWEEP,Amini Island,Vasanthpura,2019,Mar,6,Low,Car over speed and hit to car,Jeep (Private),19,2,7,Low
+LAKSHADWEEP,Amini Island,Vijnana Nagar,2019,Mar,4,Medium,Two wheeler over taking the Bus. Negligible Driving of Two wheeler,Car (Government),22,24,23,Medium
+LAKSHADWEEP,Amini Island,Vijnanapura,2019,Mar,7,High,Bike over speed fault of Motor vehicle,Bicycle,3,21,20,High
+LAKSHADWEEP,Amini Island,Yelchenahalli,2019,Mar,23,Low,Bus,Total Jeep,1,2,3,Low
+LAKSHADWEEP,Minicoy Lakshadweep,A Narayanapura,2019,Mar,21,High,Pedestrian road crossing in the carriageway Multi axle Hit and Run,Truck/Lorry (Government),10,22,23,High
+LAKSHADWEEP,Minicoy Lakshadweep,Agaram,2019,Mar,12,High,Self accident Drunk & Drive,Truck/Lorry (Private),20,12,14,High
+LAKSHADWEEP,Minicoy Lakshadweep,Banasavadi,2019,Mar,31,Low,Car over speed and hit to Agriculture vehicle.,Bus (Government),21,34,40,Low
+MADHYA PRADESH,Bhopal,Basavanapura,2019,Mar,13,High,car over speed and hit to two wheeler. Negligible driving,Bus (Private),23,21,22,High
+MADHYA PRADESH,Jabalpur,Bellanduru,2019,Mar,30,High,Two wheeler over speed skidding because of over speed,Tempo/Vans (Government),21,34,50,High
+MADHYA PRADESH,Indore,Benniganahalli,2019,Mar,23,Low,Car,Tempo/Vans (Private),12,21,30,Low
+MADHYA PRADESH,Gwalior,Bharathi Nagar,2019,Mar,22,High,Two wheeler over speed Self accident,Jeep (Government),15,22,30,High
+MADHYA PRADESH,Ujjain,BTM Layout,2019,Mar,20,Medium,Car over speed and hit to Two wheeler,Jeep (Private),13,21,20,Medium
+MADHYA PRADESH,Ratlam,C V Raman Nagar,2019,Mar,11,Low,Two wheeler over speed Drunk & Drive,Car (Government),10,23,40,Low
+MADHYA PRADESH,Sagar,Chickpete,2019,Mar,19,Low,LCV over speed and hit to LCV,Total Truck/Lorry,20,3,5,Low
+MADHYA PRADESH,Chhindwara,Devasandra,2019,Mar,18,High,Auto hit to the bike. Bike damaged,Total Bus,5,2,4,High
+MADHYA PRADESH,Vidisha,Dharmaraya Swamy Temple,2019,Mar,15,Medium,Vehicle over speed and hit to the another vehicle,Total Tempo/Vans,6,3,5,Medium
+MADHYA PRADESH,Satna,Dodda Nekkundi,2019,Mar,14,Medium,car over speed and hit to two wheeler,Total Jeep,7,7,8,Medium
+MADHYA PRADESH,Dewas,Domlur,2019,Mar,12,Low,Lorry over taking and Hit to the Car in Junction,Truck/Lorry (Government),9,23,25,Low
+MADHYA PRADESH,Burhanpur,Garudachar Playa,2019,Mar,18,Medium,Self accident Two wheeler over speed,Bus (Government),1,12,30,Medium
+MADHYA PRADESH,Bhopal,Gurappanapalya,2019,Mar,17,Low,Car hit to the other car because of over speed on the carriageway and vehicle out of control,Tempo/Vans (Government),12,20,31,Low
+MADHYA PRADESH,Jabalpur,Hagadur,2019,Mar,14,Medium,Car over speed,Tempo/Vans (Private),5,1,10,Medium
+MADHYA PRADESH,Indore,HAL Airport,2019,Mar,9,High,Fault of Two wheeler over speed to crossing road car was hit to two wheeler.,Jeep (Government),6,4,21,High
+MADHYA PRADESH,Gwalior,Halsoor,2019,Mar,8,Low,Fault of Two wheeler over speed and hit to parking vehicle of Tractor,Car (Government),3,23,40,Low
+MADHYA PRADESH,Ujjain,Hemmigepura,2019,Mar,10,Low,Drunk & Drive Two wheeler,Total Tempo/Vans,5,2,7,Low
+MADHYA PRADESH,Ratlam,Horamavu,2019,Mar,20,Low,Fault of Pedestrian across the Road,Truck/Lorry (Government),10,24,23,Low
+MADHYA PRADESH,Sagar,Hoysala Nagar,2019,Mar,2,Low,Zen car Hit to I-20 Car vehicle over speed,Bus (Government),12,21,20,Low
+MADHYA PRADESH,Chhindwara,HSR Layout,2019,Mar,1,Medium,Car,Bus (Private),15,2,3,Medium
+MADHYA PRADESH,Chhindwara,Hudi,2019,Mar,5,Medium,Two wheeler over speed and hit to car,Tempo/Vans (Government),20,22,23,Medium
+MAHARASHTRA,Greater Mumbai ,J P Nagar,2019,Mar,6,High,Car over speed and hit to car,Tempo/Vans (Private),2,12,14,High
+MAHARASHTRA,Pune,Jaraganahalli,2019,Mar,4,Medium,Car over speed and hit to Two wheeler,Jeep (Government),19,34,40,Medium
+MAHARASHTRA,Nagpur,Jayanagar East,2019,Mar,7,High,Two wheeler over speed and hit to car,Jeep (Private),17,21,22,High
+MAHARASHTRA,Nashik,Jeevanbhima Nagar,2019,Mar,23,Medium,Two wheeler over speed self accident,Car (Government),16,34,50,Medium
+MAHARASHTRA,Thane,Jogupalya,2019,Mar,21,Medium,Two wheeler over speed self accident,Total Bus,2,21,30,Medium
+MAHARASHTRA,Aurangabad,K R Puram,2019,Mar,12,High,Bike,Total Tempo/Vans,13,22,30,High
+MAHARASHTRA,Solapur,Kacharkanahalli,2019,Mar,31,Low,Bus over speed and hit to Car,Total Jeep,17,21,20,Low
+MAHARASHTRA,Amaravati,Kadugodi,2019,Apr,13,Medium,Drunk & Drive,Truck/Lorry (Government),2,23,40,Medium
+MAHARASHTRA,Sangli,Kammanahalli,2019,Apr,30,Low,Bus over speed and hit to two wheeler,Jeep (Government),1,3,5,Low
+MAHARASHTRA,Bhiwandi-Nizampur,Konena Agrahara,2019,Apr,23,Low,Car over speed and hit to road crossing pedestrian. Fault of Pedestrian.,Jeep (Private),2,2,4,Low
+MAHARASHTRA,Akola,Madivala,2019,Apr,22,Medium,Car overturning the bus over speed,Car (Government),4,3,5,Medium
+MAHARASHTRA,Chandrapur,Marathahalli,2019,Apr,20,Low,Car overturning the bus over speed,Three Wheeler,5,7,8,Low
+MAHARASHTRA,Miraj,New Tippasandara,2019,Apr,11,Low,Car over speed and hit to road crossing pedestrian and Two wheeler,Bicycle,8,23,25,Low
+MAHARASHTRA,Pune,Other,2019,Apr,19,Medium,Car hit to bike,Pedestrian,11,12,30,Medium
+MAHARASHTRA,Nagpur,other,2019,Apr,18,Medium,Car over speed self accident,Total Jeep,9,20,31,Medium
+MAHARASHTRA,Nashik,Ramamurthy Nagar,2019,Apr,15,High,Self accident LCV defect in mechanical condition,Truck/Lorry (Government),13,1,10,High
+MAHARASHTRA,Thane,Sampangiram Nagar,2019,Apr,14,Low,Self accident Two wheeler over speed,Truck/Lorry (Private),20,4,21,Low
+MAHARASHTRA,Aurangabad,Sarakki,2019,Apr,12,Medium,Bike raiding and Hit to the opposite Bike,Bus (Government),21,23,40,Medium
+MAHARASHTRA,Solapur,Shantala Nagar,2019,Apr,18,Medium,Multiaxle over speed and hit to the Car,Bus (Private),19,2,7,Medium
+MAHARASHTRA,Thane,Singasandra,2019,Apr,17,High,Car over speed and hit to car,Tempo/Vans (Government),22,24,23,High
+MAHARASHTRA,Miraj,Sudham Nagara,2019,Apr,14,Low,Vehicle over speed and hit to the road Pedestrian,Tempo/Vans (Private),3,21,20,Low
+MANIPUR,Bishnupur,Varthuru,2019,Apr,9,High,LCV over speed and hit to Tractor,Jeep (Government),1,2,3,High
+MANIPUR,Thoubal,Vasanthpura,2019,Apr,8,Low,Car over speed and hit to Two wheeler,Jeep (Private),10,22,23,Low
+MANIPUR,Imphal East ,Vijnana Nagar,2019,Apr,10,Medium,Car over speed and hit to Two wheeler,Car (Government),20,12,14,Medium
+MANIPUR,Imphal West ,Vijnanapura,2019,Apr,20,High,Over speed Car and Hit to Lorry,Car (Private),21,34,40,High
+MANIPUR,Senapati,Yelchenahalli,2019,Apr,2,Low,Car over speed,Total Truck/Lorry,23,21,22,Low
+MANIPUR,Ukhrul,A Narayanapura,2019,Apr,1,High,Car over speed self accident,Total Bus,21,34,50,High
+MANIPUR,Chandel,Agaram,2019,Apr,5,High,Bike,Total Tempo/Vans,12,21,30,High
+MANIPUR,Churachandpur,Banasavadi,2019,Apr,6,Low,Two wheeler self accident Drunken & Drive,Total Jeep,15,22,30,Low
+MANIPUR,Tamenglong,Basavanapura,2019,Apr,4,High,Car over speed and hit to Two wheeler,Total Car,13,21,20,High
+MANIPUR,Jiribam,Bellanduru,2019,Apr,7,High,LCV over speed self accident,Truck/Lorry (Government),10,23,40,High
+MANIPUR,Kangpokpi,Benniganahalli,2019,Apr,23,Low,Car over speed and hit to the car,Truck/Lorry (Private),20,3,5,Low
+MANIPUR,Kamjong,Bharathi Nagar,2019,Apr,21,High,Road crossing pedestrian cross the road vehicle hit and run,Bus (Government),5,2,4,High
+MANIPUR,Bishnupur,BTM Layout,2019,Apr,12,Medium,Bike Drunk & Drive,Bus (Private),6,3,5,Medium
+MANIPUR,Thoubal,C V Raman Nagar,2019,Apr,31,Low,Car over speed self accident,Tempo/Vans (Government),7,7,8,Low
+MANIPUR,Imphal East ,Chickpete,2019,Apr,13,Low,Auto hit to the Two wheeler,Tempo/Vans (Private),9,23,25,Low
+MANIPUR,Imphal West ,Devasandra,2019,Apr,30,High,Car over speed and Hit to the lorry,Jeep (Government),1,12,30,High
+MANIPUR,Senapati,Dharmaraya Swamy Temple,2019,Apr,23,Medium,Truck,Jeep (Private),12,20,31,Medium
+MANIPUR,Ukhrul,Dodda Nekkundi,2019,Apr,22,Medium,Pedestrian,Car (Private),5,1,10,Medium
+MANIPUR,Chandel,Domlur,2019,Apr,20,Low,Over Speed of Car,Three Wheeler,6,4,21,Low
+MANIPUR,Churachandpur,Garudachar Playa,2019,May,11,Medium,Unknown vehicle over speed and hit to two wheeler,Others (Please Specify),3,23,40,Medium
+MANIPUR,Tamenglong,Gurappanapalya,2019,May,19,Low,Bike over speed and hit to opposite bike,Total Truck/Lorry,5,2,7,Low
+MEGHALAYA,Shillong,Hagadur,2019,May,18,Medium,Fault of car vehicle over speed and hit to bike,Total Bus,10,24,23,Medium
+MEGHALAYA,Shillong Cantonment,HAL Airport,2019,May,15,High,Fault of Multi axle over speed and hit to bike,Total Tempo/Vans,12,21,20,High
+MEGHALAYA,Tura,Halsoor,2019,May,14,Low,car over speed and hit to two wheeler,Total Jeep,15,2,3,Low
+MEGHALAYA,Umlyngka,Hemmigepura,2019,May,12,Low,Car over speed and hit to Two wheeler,Truck/Lorry (Government),20,22,23,Low
+MEGHALAYA,Nongkseh,Horamavu,2019,May,18,Low,Car over speed self accident,Truck/Lorry (Private),2,12,14,Low
+MEGHALAYA,Nongpoh,Hoysala Nagar,2019,May,17,Low,Fault of road crossing pedestrian. Vehicle over speed and hit to pedestrian,Bus (Government),19,34,40,Low
+MEGHALAYA,Shillong,HSR Layout,2019,May,14,Medium,LCV hit to Truck,Bus (Private),17,21,22,Medium
+MEGHALAYA,Shillong Cantonment,Hudi,2019,May,9,Medium,Car over speed self accident,Tempo/Vans (Government),16,34,50,Medium
+MEGHALAYA,Tura,J P Nagar,2019,May,8,High,Car over speed vehicle out of control Self accident,Tempo/Vans (Private),2,21,30,High
+MEGHALAYA,Umlyngka,Jaraganahalli,2019,May,10,Medium,Bus over speed and hit to two wheeler,Jeep (Private),13,22,30,Medium
+MEGHALAYA,Nongkseh,Jayanagar East,2019,May,20,High,Bus over speed and Hit to Road crossing Pedestrian,Car (Government),17,21,20,High
+MEGHALAYA,Nongpoh,Jeevanbhima Nagar,2019,May,2,Medium,Fault of Car over speed and hit to LCV,Car (Private),2,23,40,Medium
+MEGHALAYA,Shillong,Jogupalya,2019,May,1,Medium,Car over speed and hit to run the Pedestrian,Others (Please Specify),1,3,5,Medium
+MEGHALAYA,Shillong Cantonment,K R Puram,2019,May,5,High,LCV vehicle over speed out of controll,Total Truck/Lorry,2,2,4,High
+MEGHALAYA,Tura,Kacharkanahalli,2019,May,6,Low,Car over speed driver drunk and drive self accident,Total Bus,4,3,5,Low
+MEGHALAYA,Umlyngka,Kadugodi,2019,May,4,Medium,Two wheeler over speed and hit to two wheeler,Total Tempo/Vans,5,7,8,Medium
+MEGHALAYA,Nongkseh,Kammanahalli,2019,May,7,Low,Car over speed hit to Car,Total Car,8,23,25,Low
+MEGHALAYA,Nongpoh,Konena Agrahara,2019,May,23,Low,Car over speed and hit to Two wheeler,Truck/Lorry (Government),11,12,30,Low
+MEGHALAYA,Shillong Cantonment,Madivala,2019,May,21,Medium,Bus over speed and hit to car,Bus (Government),9,20,31,Medium
+MEGHALAYA,Tura,Marathahalli,2019,May,12,Low,Car,Bus (Private),13,1,10,Low
+MEGHALAYA,Umlyngka,New Tippasandara,2019,May,31,Low,car over speed and hit to two wheeler,Tempo/Vans (Government),20,4,21,Low
+MIZORAM,Aizawl,Other,2019,May,13,Medium,Two wheeler over speed Self accident,Jeep (Government),21,23,40,Medium
+MIZORAM,Bairabi,other,2019,May,30,Medium,car over speed hit to road crossing Pedestrian,Jeep (Private),19,2,7,Medium
+MIZORAM,Biate,Ramamurthy Nagar,2019,May,23,High,LCV HIt to Car over speed,Car (Government),22,24,23,High
+MIZORAM,Champhai,Sampangiram Nagar,2019,May,22,Low,Vehicle over speed and Hit to Road cross pedestrian,Bicycle,3,21,20,Low
+MIZORAM,Lawngtlai,Sarakki,2019,May,20,Medium,Two wheeler over speed and hit to Agriculture vehicle.,Total Bus,1,2,3,Medium
+MIZORAM,Lengpui,Shantala Nagar,2019,May,11,Medium,LCV self accident Over speed and Vehicle out of control,Total Jeep,10,22,23,Medium
+MIZORAM,Kolasib,Singasandra,2019,May,19,High,Two wheeler over speed and Hit to Two wheeler,Truck/Lorry (Government),20,12,14,High
+MIZORAM,Khawhai,Sudham Nagara,2019,May,18,Low,Fault of Road crossing pedestrian,Bus (Government),21,34,40,Low
+MIZORAM,Darlawn,Varthuru,2019,May,15,High,Truck over speed and Hit to the Two wheeler,Bus (Private),23,21,22,High
+MIZORAM,Mamit,Vasanthpura,2019,May,14,Low,Drunk & Drive,Tempo/Vans (Government),21,34,50,Low
+MIZORAM,Saiha,Vijnana Nagar,2019,May,12,Medium,Car over speed and hit to Two wheeler,Jeep (Government),12,21,30,Medium
+MIZORAM,Sairang,Vijnanapura,2019,May,18,High,Bike over speed and Hit to LCV,Jeep (Private),15,22,30,High
+MIZORAM,Saitual,Yelchenahalli,2019,May,17,Low,Car over speed and hit to Two wheeler,Car (Government),13,21,20,Low
+MIZORAM,Serchhip,A Narayanapura,2019,May,14,High,car over speed and hit to two wheeler,Three Wheeler,10,23,40,High
+MIZORAM,Thenzawl,Agaram,2019,May,9,High,Car over speed and hit to road crossing Pedestrian,Bicycle,20,3,5,High
+MIZORAM,Tlabung,Banasavadi,2019,May,8,Low,Truck over speed and hit to car,Total Bus,5,2,4,Low
+MIZORAM,Vairengte,Basavanapura,2019,May,10,High,Car,Total Jeep,6,3,5,High
+MIZORAM,Zawlnuam,Bellanduru,2019,May,20,High,Jeep over speed and hit to two wheeler,Truck/Lorry (Government),7,7,8,High
+MIZORAM,Hnahthial,Benniganahalli,2019,June,2,Low,Bike,Truck/Lorry (Private),9,23,25,Low
+MIZORAM,Bairabi,Bharathi Nagar,2019,June,1,High,Bike,Bus (Government),1,12,30,High
+MIZORAM,Lawngtlai,BTM Layout,2019,June,5,Medium,Two wheeler over speed Self accident,Tempo/Vans (Government),12,20,31,Medium
+NAGALAND,Kohima,C V Raman Nagar,2019,June,6,Low,Bike over speed fault of Motor vehicle,Tempo/Vans (Private),5,1,10,Low
+NAGALAND,Kuda,Chickpete,2019,June,4,Low,Truck over speed and hit to LCV. Driver sleep,Jeep (Government),6,4,21,Low
+NAGALAND,Longleng,Devasandra,2019,June,7,High,car over speed and hit to two wheeler,Jeep (Private),3,23,40,High
+NAGALAND,Medziphema,Dharmaraya Swamy Temple,2019,June,23,Medium,Vehicle over speed and hit to Road Pedestrian. Fault of Pedestrian,Car (Government),5,2,7,Medium
+NAGALAND,Peren,Dodda Nekkundi,2019,June,21,Medium,Multi axle hit to LCV,Car (Private),10,24,23,Medium
+NAGALAND,Kiphire,Domlur,2019,June,12,Low,Car over speed vehicle out of control Self accident,Total Truck/Lorry,12,21,20,Low
+NAGALAND,Kuda,Garudachar Playa,2019,June,31,Medium,Self accident Two wheeler,Total Tempo/Vans,15,2,3,Medium
+NAGALAND,Longleng,Gurappanapalya,2019,June,13,Low,Two wheeler over speed and overturning to bus bike was skidding,Total Jeep,20,22,23,Low
+NAGALAND,Kohima,Hagadur,2019,June,30,Medium,Car tyer blast vehicle out of control,Total Car,2,12,14,Medium
+NAGALAND,Kuda,HAL Airport,2019,June,23,High,car over speed and hit to two wheeler,Truck/Lorry (Government),19,34,40,High
+NAGALAND,Longleng,Halsoor,2019,June,22,Low,Drunk & Drive Two wheeler,Truck/Lorry (Private),17,21,22,Low
+NAGALAND,Medziphema,Hemmigepura,2019,June,20,Low,Truck over speed and hit to Two wheeler,Bus (Government),16,34,50,Low
+NAGALAND,Peren,Horamavu,2019,June,11,Low,Car hit to road crossing pedestrian,Tempo/Vans (Government),2,21,30,Low
+NAGALAND,Kiphire,Hoysala Nagar,2019,June,19,Low,Multi axle hit to car,Tempo/Vans (Private),13,22,30,Low
+NAGALAND,Kuda,HSR Layout,2019,June,18,Medium,Tata Ace,Jeep (Government),17,21,20,Medium
+NAGALAND,Longleng,Hudi,2019,June,15,Medium,Car over speed and hit to car,Jeep (Private),2,23,40,Medium
+NAGALAND,Kiphire,J P Nagar,2019,June,14,High,LCV over speed and hit to LCV,Car (Government),1,3,5,High
+NAGALAND,Kuda,Jaraganahalli,2019,June,12,Medium,Truck over speed and hit to Bus,Total Truck/Lorry,2,2,4,Medium
+NAGALAND,Longleng,Jayanagar East,2019,June,18,High,Multiaxle over speed and hit to the LCV,Total Tempo/Vans,4,3,5,High
+NAGALAND,Kohima,Jeevanbhima Nagar,2019,June,17,Medium,Car over speed and hit to car,Total Jeep,5,7,8,Medium
+NAGALAND,Medziphema,Jogupalya,2019,June,14,Medium,Car over speed and hit to car,Truck/Lorry (Government),8,23,25,Medium
+ODISHA,Bhubaneswar,K R Puram,2019,July,9,High,Auto over speed self accident,Truck/Lorry (Private),11,12,30,High
+ODISHA,Cuttack,Kacharkanahalli,2019,July,8,Low,Car over speed self accident. Defects in mechanical condition,Bus (Government),9,20,31,Low
+ODISHA,Rourkela,Kadugodi,2019,July,10,Medium,Truck,Bus (Private),13,1,10,Medium
+ODISHA,Berhampur,Kammanahalli,2019,July,20,Low,Unknown vehicle hit and run while road crossing,Tempo/Vans (Government),20,4,21,Low
+ODISHA,Sambalpur,Konena Agrahara,2019,July,2,Low,Fault of road crossing pedestrian,Tempo/Vans (Private),21,23,40,Low
+ODISHA,Puri,Madivala,2019,July,1,Medium,Drunk & Drive,Jeep (Government),19,2,7,Medium
+ODISHA,Balasore,Marathahalli,2019,July,5,Low,Car over speed self accident,Jeep (Private),22,24,23,Low
+ODISHA,Bhadrak,New Tippasandara,2019,July,6,Low,Car over speed and hit to Car due to defect in mechanical conditions.,Car (Government),3,21,20,Low
+ODISHA,Baripada,Other,2019,July,4,Medium,Car over speed and Hit to car,Pedestrian,1,2,3,Medium
+ODISHA,Bhubaneswar,other,2019,July,7,Medium,The tractor vehicle some mechanical problem self accident,Total Truck/Lorry,10,22,23,Medium
+ODISHA,Cuttack,Ramamurthy Nagar,2019,July,23,High,Self accident Drunk & Drive,Total Bus,20,12,14,High
+ODISHA,Rourkela,Sampangiram Nagar,2019,July,21,Low,Car over speed self accident. Defects in mechanical condition,Total Tempo/Vans,21,34,40,Low
+ODISHA,Berhampur,Sarakki,2019,July,12,Medium,Bus over speed and Hit to Tow wheeler,Total Jeep,23,21,22,Medium
+ODISHA,Sambalpur,Shantala Nagar,2019,July,31,Medium,Car over speed and hit to the Water tanker,Truck/Lorry (Government),21,34,50,Medium
+ODISHA,Puri,Singasandra,2019,August,13,High,Multi Axle hit to Two wheeler.,Truck/Lorry (Private),12,21,30,High
+ODISHA,Balasore,Sudham Nagara,2019,August,30,Low,Self Accident Drunk & Drive,Bus (Government),15,22,30,Low
+ODISHA,Bhadrak,Varthuru,2019,August,23,High,Car over speed and hit to Truck due to Defects in Mechanical condition,Bus (Private),13,21,20,High
+ODISHA,Baripada,Vasanthpura,2019,August,22,Low,Car over speed self accident,Tempo/Vans (Government),10,23,40,Low
+ODISHA,Puri,Vijnana Nagar,2019,August,20,Medium,Auto tyre blast vehicle out of control and upside to carriageway,Tempo/Vans (Private),20,3,5,Medium
+ODISHA,Balasore,Vijnanapura,2019,August,11,High,Truck over speed and hit to Car,Jeep (Government),5,2,4,High
+ODISHA,Bhadrak,Yelchenahalli,2019,August,19,Low,Car over speed self accident Drunk & Drive,Jeep (Private),6,3,5,Low
+ODISHA,Baripada,A Narayanapura,2019,August,18,High,Auto over speed and vehicle skidding in shoulder side driver fault,Three Wheeler,7,7,8,High
+PUDUCHERRY,Thirumalairayanpattinam,Agaram,2019,August,15,High,Car,Bicycle,9,23,25,High
+PUDUCHERRY,Puducherry,Banasavadi,2019,August,14,Low,LCV over speed self accident,Pedestrian,1,12,30,Low
+PUDUCHERRY,Yanam,Basavanapura,2019,September,12,High,Bike Drunk & Drive,Others (Please Specify),12,20,31,High
+PUDUCHERRY,Villianur,Bellanduru,2019,September,18,High,Two wheeler over speed self accident,Total Truck/Lorry,5,1,10,High
+PUDUCHERRY,Puducherry,Benniganahalli,2019,September,17,Low,Two wheeler over speed and hit to Tractor,Total Bus,6,4,21,Low
+PUDUCHERRY,Ozhukarai,Bharathi Nagar,2019,September,14,High,car over speed and hit to two wheeler,Total Tempo/Vans,3,23,40,High
+PUDUCHERRY,Manavely,BTM Layout,2019,September,9,Medium,Car over speed hit to Truck,Total Jeep,5,2,7,Medium
+PUDUCHERRY,Mahé,C V Raman Nagar,2019,September,8,Low,Bike Rider,Truck/Lorry (Private),10,24,23,Low
+PUDUCHERRY,Kurumbapet,Chickpete,2019,September,10,Low,Car over speed and hit to car,Bus (Government),12,21,20,Low
+PUDUCHERRY,Thirumalairayanpattinam,Devasandra,2019,September,20,High,Bus driver driving wrong route and hit to Bus,Bus (Private),15,2,3,High
+PUDUCHERRY,Puducherry,Dharmaraya Swamy Temple,2019,September,2,Medium,Drunk & Drive,Tempo/Vans (Government),20,22,23,Medium
+PUDUCHERRY,Yanam,Dodda Nekkundi,2019,September,1,Medium,The vehicle over speed and skidding,Tempo/Vans (Private),2,12,14,Medium
+PUDUCHERRY,Villianur,Domlur,2019,September,5,Low,Two wheeler over speed and vehicle out of control and hit to Truck,Jeep (Government),19,34,40,Low
+PUDUCHERRY,Puducherry,Garudachar Playa,2019,September,6,Medium,Two wheeler over speed and hit to Car,Jeep (Private),17,21,22,Medium
+PUDUCHERRY,Ozhukarai,Gurappanapalya,2019,September,4,Low,Vehicle over speed out of control,Car (Government),16,34,50,Low
+PUDUCHERRY,Manavely,Hagadur,2019,September,7,Medium,Car over speed self accident. Defects in mechanical condition,Car (Private),2,21,30,Medium
+PUDUCHERRY,Mahé,HAL Airport,2019,September,23,High,Unknown vehicle hit to Road crossing pedestrian,Others (Please Specify),13,22,30,High
+PUDUCHERRY,Kurumbapet,Halsoor,2019,October,21,Low,Multi axle over speed and hit to Truck,Total Bus,17,21,20,Low
+PUDUCHERRY,Ozhukarai,Hemmigepura,2019,October,12,Low,Two wheeler over speed and hit to Auto,Total Tempo/Vans,2,23,40,Low
+PUDUCHERRY,Manavely,Horamavu,2019,October,31,Low,Two wheeler over speed Drunk & Drive,Total Jeep,1,3,5,Low
+PUDUCHERRY,Mahé,Hoysala Nagar,2019,October,13,Low,Car over speed and Hit to Two wheeler,Total Car,2,2,4,Low
+PUNJAB,Amritsar,HSR Layout,2019,October,30,Medium,Unknown vehicle hit to Road crossing pedestrian,Truck/Lorry (Government),4,3,5,Medium
+PUNJAB,Ludhiana,Hudi,2019,October,23,Medium,Multi Axle over speed and hit to Multi axle,Bus (Government),5,7,8,Medium
+PUNJAB,Jalandhar,J P Nagar,2019,October,22,High,Car over speed and hit to Agriculture vehicle.,Bicycle,8,23,25,High
+PUNJAB,Patiala,Jaraganahalli,2019,October,20,Medium,Car over speed self accident,Truck/Lorry (Government),11,12,30,Medium
+PUNJAB,Bathinda,Jayanagar East,2019,October,11,High,Bike over speed and vehicle skidding,Truck/Lorry (Private),9,20,31,High
+PUNJAB,Hoshiarpur,Jeevanbhima Nagar,2019,October,19,Medium,Car self accident Drink & Drive and Negligence Driving,Bus (Government),13,1,10,Medium
+PUNJAB,Mohali,Jogupalya,2019,October,18,Medium,Bike over speed Hit to TATA 407,Tempo/Vans (Government),20,4,21,Medium
+PUNJAB,Malerkotla,K R Puram,2019,October,15,High,Car over speed and hit to road crossing Pedestrian,Tempo/Vans (Private),21,23,40,High
+PUNJAB,Amritsar,Kacharkanahalli,2019,October,14,Low,Car over speed fault of driver other vehicle,Jeep (Government),19,2,7,Low
+PUNJAB,Ludhiana,Kadugodi,2019,October,12,Medium,Car over speed and hit to Truck,Jeep (Private),22,24,23,Medium
+PUNJAB,Jalandhar,Kammanahalli,2019,October,18,Low,Truck over speed self accident,Car (Government),3,21,20,Low
+PUNJAB,Patiala,Konena Agrahara,2019,October,17,Low,Truck over speed and hit to Car,Three Wheeler,1,2,3,Low
+PUNJAB,Bathinda,Madivala,2019,October,14,Medium,Two wheeler over speed hit to two wheeler,Total Truck/Lorry,10,22,23,Medium
+PUNJAB,Hoshiarpur,Marathahalli,2019,October,9,Low,Two wheeler over speed Self accident,Total Tempo/Vans,20,12,14,Low
+PUNJAB,Mohali,New Tippasandara,2019,October,8,Low,LCV over speed Tyre blast self accident,Total Jeep,21,34,40,Low
+PUNJAB,Malerkotla,Other,2019,October,10,Medium,Truck over speed and Hit to the LCV,Jeep (Government),23,21,22,Medium
+PUNJAB,Amritsar,other,2019,October,20,Medium,LCV over speed and hit to Two wheeler,Jeep (Government),21,34,50,Medium
+PUNJAB,Ludhiana,Ramamurthy Nagar,2019,October,2,High,Car over speed hit to Two wheeler,Car (Government),12,21,30,High
+PUNJAB,Jalandhar,Sampangiram Nagar,2019,October,1,Low,Car over speed and hit to LCV,Tempo/Vans (Government),15,22,30,Low
+PUNJAB,Patiala,Sarakki,2019,October,5,Medium,Car over speed and hit to Pedestrian cross on the road,Car (Government),13,21,20,Medium
+PUNJAB,Bathinda,Shantala Nagar,2019,October,6,Medium,Fault of Motor vehicle over speed and Hit to BMTC Bus,Jeep (Government),10,23,40,Medium
+RAJASTHAN,Jaipur,Singasandra,2019,October,4,High,BBMP Garbage vehicle overload and vehicle upset in the carriageway,Jeep (Government),20,3,5,High
+RAJASTHAN,Jaisalmer,Sudham Nagara,2019,November,7,Low,LCV over speed and hit to Two wheeler,Jeep (Government),5,2,4,Low
+RAJASTHAN,Udaipur,Varthuru,2019,November,23,High,Bus hit to road crossing pedestrian. Fault of Pedestrian,Truck/Lorry (Government),6,3,5,High
+RAJASTHAN,Jodhpur,Vasanthpura,2019,November,21,Low,Car over speed and Hit to Road crossing Lorry,Jeep (Government),7,7,8,Low
+RAJASTHAN,Bikaner,Vijnana Nagar,2019,November,12,Medium,car over speed vehicle out of control,Car (Government),9,23,25,Medium
+RAJASTHAN,Jaipur,Vijnanapura,2020,November,31,High,Truck,Truck/Lorry (Government),1,12,30,High
+RAJASTHAN,Jaisalmer,Yelchenahalli,2020,November,13,Low,Car over speed,Tempo/Vans (Government),12,20,31,Low
+RAJASTHAN,Udaipur,A Narayanapura,2020,November,30,High,Car tyre blast vehicle out of control and hit to Two wheeler,Jeep (Government),5,1,10,High
+RAJASTHAN,Jodhpur,Agaram,2020,November,23,High,Unknown vehicle hit to Road crossing pedestrian,Car (Government),6,4,21,High
+RAJASTHAN,Bikaner,Banasavadi,2020,November,22,Low,Two wheeler over speed Self accident,Truck/Lorry (Government),3,23,40,Low
+RAJASTHAN,Jaipur,Basavanapura,2020,November,20,High,Two wheeler over speed self accident,Tempo/Vans (Government),5,2,7,High
+RAJASTHAN,Jaisalmer,Bellanduru,2020,November,11,High,Bike over speed Drunken and Drive Hit to Tractor,Jeep (Government),10,24,23,High
+RAJASTHAN,Udaipur,Benniganahalli,2020,November,19,Low,Two wheeler over speed and hit to Two wheeler,Car (Government),12,21,20,Low
+RAJASTHAN,Jodhpur,Bharathi Nagar,2020,November,18,High,Car,Truck/Lorry (Government),15,2,3,High
+RAJASTHAN,Bikaner,BTM Layout,2020,November,15,Medium,LCV over speed and hit to LCV. Defects in mechanical condition,Bus (Government),20,22,23,Medium
+RAJASTHAN,Jaipur,C V Raman Nagar,2020,November,14,Low,Two wheeler over speed and over take the bus. Bus hit to Two wheeler,Jeep (Government),2,12,14,Low
+RAJASTHAN,Jaisalmer,Chickpete,2020,November,12,Low,LCV over speed and hit to Truck,Car (Government),19,34,40,Low
+RAJASTHAN,Udaipur,Devasandra,2020,November,18,High,Car,Truck/Lorry (Government),17,21,22,High
+RAJASTHAN,Jodhpur,Dharmaraya Swamy Temple,2020,November,17,Medium,Two wheeler over speed and hit to car,Bus (Government),16,34,50,Medium
+RAJASTHAN,Bikaner,Dodda Nekkundi,2020,November,14,Medium,Vehicle over speed and Out of Control,Tempo/Vans (Government),2,21,30,Medium
+RAJASTHAN,Udaipur,Domlur,2020,December,9,Low,Two wheeler over speed Self accident,Jeep (Government),13,22,30,Low
+SIKKIM,Gangtok,Garudachar Playa,2020,December,8,Medium,Car over speed vehicle out of control hit to Agricultural vehicle.,Car (Government),17,21,20,Medium
+SIKKIM,Gyalshing,Gurappanapalya,2020,December,10,Low,Bike,Truck/Lorry (Government),2,23,40,Low
+SIKKIM,Jorethang,Hagadur,2020,December,20,Medium,Multi axle over speed self accident,Bus (Government),1,3,5,Medium
+SIKKIM,Mangan,HAL Airport,2020,December,2,High,Multi Axle hit to Two wheeler.,Jeep (Government),2,2,4,High
+SIKKIM,Gangtok,Halsoor,2020,December,1,Low,Fault of road crossing pedestrian. Vehicle over speed and hit to pedestrian,Car (Government),4,3,5,Low
+SIKKIM,Gyalshing,Hemmigepura,2020,December,5,Low,Truck over speed and hit to Car,Truck/Lorry (Government),5,7,8,Low
+SIKKIM,Jorethang,Horamavu,2020,December,6,Low,Two wheeler over speed Self accident,Tempo/Vans (Government),8,23,25,Low
+SIKKIM,Mangan,Hoysala Nagar,2020,December,4,Low,Car overspeed and skidding fault of driver self accident,Jeep (Government),11,12,30,Low
+SIKKIM,Gangtok,HSR Layout,2020,December,7,Medium,Truck over speed and hit to LCV,Car (Government),9,20,31,Medium
+SIKKIM,Gyalshing,Hudi,2020,December,23,Medium,Multi Axle hit to Two wheeler.,Truck/Lorry (Government),13,1,10,Medium
+SIKKIM,Jorethang,J P Nagar,2020,December,21,High,Vehicle over speed and hit to the road crossing vehicle,Tempo/Vans (Government),20,4,21,High
+SIKKIM,Mangan,Jaraganahalli,2020,December,12,Medium,Truck over speed and hit to Car,Car (Government),21,23,40,Medium
+SIKKIM,Gangtok,Jayanagar East,2020,December,31,High,Truck over speed and hit to Tractor,Truck/Lorry (Government),19,2,7,High
+SIKKIM,Gyalshing,Jeevanbhima Nagar,2020,December,13,Medium,car over speed and hit to two wheeler,Bus (Government),22,24,23,Medium
+SIKKIM,Jorethang,Jogupalya,2020,December,30,Medium,Truck lost control and hit to the car. Negligent driving of car driver.,Tempo/Vans (Government),3,21,20,Medium
+SIKKIM,Mangan,K R Puram,2020,December,23,High,Self accidents Drunk & Drive,Jeep (Government),1,2,3,High
+SIKKIM,Gangtok,Kacharkanahalli,2020,December,22,Low,Two wheeler over speed defects in mechanical condition,Car (Government),10,22,23,Low
+SIKKIM,Gyalshing,Kadugodi,2020,December,20,Medium,Drunk & Drive,Bus (Government),20,12,14,Medium
+SIKKIM,Jorethang,Kammanahalli,2020,December,11,Low,Car fault of mechanical condition vehicle out of control,Tempo/Vans (Government),21,34,40,Low
+SIKKIM,Mangan,Konena Agrahara,2020,December,19,Low,Two wheeler over speed and hit to LCV,Car (Government),23,21,22,Low
+SIKKIM,Namchi,Madivala,2020,December,18,Medium,Bus over speed and Hit to Tow wheeler,Truck/Lorry (Government),21,34,50,Medium
+TAMIL NADU,Chennai,Marathahalli,2020,December,15,Low,Bike,Bus (Government),12,21,30,Low
+TAMIL NADU,Coimbatore,New Tippasandara,2020,December,14,Low,Tata Ace,Tempo/Vans (Government),15,22,30,Low
+TAMIL NADU,Madurai,Other,2020,January,12,Medium,Car,Car (Government),13,21,20,Medium
+TAMIL NADU,Tiruchirapalli,other,2020,January,18,Medium,Innova Car,Truck/Lorry (Government),10,23,40,Medium
+TAMIL NADU,Tiruppur,Ramamurthy Nagar,2020,January,17,High,Unknown vehicle over speed and hit to two wheeler,Tempo/Vans (Government),20,3,5,High
+TAMIL NADU,Salem,Sampangiram Nagar,2020,January,14,Low,LCV over speed and hit to car,Jeep (Government),5,2,4,Low
+TAMIL NADU,Erode,Sarakki,2020,January,9,Medium,Self accident Car,Car (Government),6,3,5,Medium
+TAMIL NADU,Tirunelveli,Shantala Nagar,2020,January,8,Medium,LCV over speed and hit to Two wheeler,Tempo/Vans (Government),7,7,8,Medium
+TAMIL NADU,Chennai,Singasandra,2020,January,10,High,Car over speed and Hit to the Motor vehicle,Car (Government),9,23,25,High
+TAMIL NADU,Coimbatore,Sudham Nagara,2020,January,20,Low,Two wheeler over speed Self accident,Truck/Lorry (Government),1,12,30,Low
+TAMIL NADU,Madurai,Varthuru,2020,January,2,High,Two wheeler over speed and hit to two wheeler,Tempo/Vans (Government),12,20,31,High
+TAMIL NADU,Tiruchirapalli,Vasanthpura,2020,January,1,Low,Bus over speed and Hit to Road crossing Pedestrian,Car (Government),5,1,10,Low
+TAMIL NADU,Tiruppur,Vijnana Nagar,2020,January,5,Medium,KSRTC bus hit to the Tata Ace due to over speed and over turning,Car (Government),6,4,21,Medium
+TAMIL NADU,Salem,Vijnanapura,2020,January,6,High,Vehicle over speed and Out of Control,Tempo/Vans (Government),3,23,40,High
+TAMIL NADU,Erode,Yelchenahalli,2020,January,4,Low,Fault of Pedestrian for Road Cross,Jeep (Government),5,2,7,Low
+TAMIL NADU,Tirunelveli,A Narayanapura,2020,January,7,High,Car over speed self accident,Car (Government),10,24,23,High
+TAMIL NADU,Tiruppur,Agaram,2020,January,23,High,Fault of Road crossing pedestrian,Tempo/Vans (Government),12,21,20,High
+TAMIL NADU,Salem,Banasavadi,2020,January,21,Low,Two wheeler over speed self accident,Jeep (Government),15,2,3,Low
+TAMIL NADU,Erode,Basavanapura,2020,January,12,High,car over speed and hit to two wheeler,Car (Government),20,22,23,High
+TAMIL NADU,Tirunelveli,Bellanduru,2020,January,31,High,Self accident vehicle over speed,Car (Government),2,12,14,High
+TAMIL NADU,Madurai,Benniganahalli,2020,February,13,Low,Two wheeler over speed and hit to Two wheeler,Tempo/Vans (Government),19,34,40,Low
+TRIPURA,Agartala,Bharathi Nagar,2020,February,30,High,Truck over speed and hit to car,Three Wheeler,17,21,22,High
+TRIPURA,Dharmanagar,BTM Layout,2020,February,23,Medium,Truck over speed and hit to Bus,Truck/Lorry (Government),16,34,50,Medium
+TRIPURA,Udaipur,C V Raman Nagar,2020,February,22,Low,Two wheeler over speed and hit to Car,Tempo/Vans (Government),2,21,30,Low
+TRIPURA,Kailasahar,Chickpete,2020,February,20,Low,TATA Indica,Car (Government),13,22,30,Low
+TRIPURA,Bishalgarh,Devasandra,2020,February,11,High,Two wheeler over speed and hit to Auto,Jeep (Government),17,21,20,High
+TRIPURA,Agartala,Dharmaraya Swamy Temple,2020,February,19,Medium,Car over speed and hit to road crossing Pedestrian,Car (Government),2,23,40,Medium
+TRIPURA,Dharmanagar,Dodda Nekkundi,2020,February,18,Medium,Bike over speed fault of Motor vehicle,Truck/Lorry (Government),1,3,5,Medium
+TRIPURA,Udaipur,Domlur,2020,February,15,Low,Drunk & Drive,Tempo/Vans (Government),2,2,4,Low
+TRIPURA,Kailasahar,Garudachar Playa,2020,March,14,Medium,Fault of car vehicle over speed and hit to bike,Car (Government),4,3,5,Medium
+TRIPURA,Bishalgarh,Gurappanapalya,2020,March,12,Low,car over speed and hit to two wheeler,Bicycle,5,7,8,Low
+TRIPURA,Agartala,Hagadur,2020,March,18,Medium,Car,Jeep (Government),8,23,25,Medium
+TRIPURA,Dharmanagar,HAL Airport,2020,March,17,High,Bike,Car (Government),11,12,30,High
+TRIPURA,Udaipur,Halsoor,2020,March,14,Low,Unknown vehicle hit to Road crossing pedestrian,Bicycle,9,20,31,Low
+TRIPURA,Kailasahar,Hemmigepura,2020,March,9,Low,Unknown vehicle over speed and hit to two wheeler,Jeep (Government),13,1,10,Low
+TRIPURA,Bishalgarh,Horamavu,2020,March,8,Low,car over speed and hit to two wheeler,Car (Government),20,4,21,Low
+TRIPURA,Agartala,Hoysala Nagar,2020,March,10,Low,Drunk & Drive vehicle out of control and Hit to the Bike,Bicycle,21,23,40,Low
+TRIPURA,Dharmanagar,HSR Layout,2020,March,20,Medium,Sumo over speed and hit to the Multi Axle in Maincarriageway,Pedestrian,19,2,7,Medium
+TRIPURA,Udaipur,Hudi,2020,March,2,Medium,Unknown vehicle hit to Road crossing pedestrian. Fault of pedestrian.,Jeep (Government),22,24,23,Medium
+TRIPURA,Kailasahar,J P Nagar,2020,March,1,High,LCV over speed hit to car,Tempo/Vans (Government),3,21,20,High
+TRIPURA,Bishalgarh,Jaraganahalli,2020,April,5,Medium,Truck hit to car. Fault of car,Tempo/Vans (Government),1,2,3,Medium
+TRIPURA,Ambassa,Jayanagar East,2020,April,6,High,LCV Tyre blast vehicle out of control,Jeep (Government),10,22,23,High
+UTTAR PRADESH,Kanpur,Jeevanbhima Nagar,2020,April,4,Medium,Car over speed self accident,Bicycle,20,12,14,Medium
+UTTAR PRADESH,Lucknow,Jogupalya,2020,April,7,Medium,Fault of Two wheeler over speed to crossing road car was hit to two wheeler.,Tempo/Vans (Government),21,34,40,Medium
+UTTAR PRADESH,Faizabad,K R Puram,2020,April,23,High,Over speed vehicle out of control and hit to the loory,Tempo/Vans (Government),23,21,22,High
+UTTAR PRADESH,Gorakhpur,Kacharkanahalli,2020,April,21,Low,Car over speed and hit to LCV,Truck/Lorry (Government),21,34,50,Low
+UTTAR PRADESH,Ghaziabad,Kadugodi,2020,April,12,Medium,Car over speed and hit to LCV,Tempo/Vans (Government),12,21,30,Medium
+UTTAR PRADESH,Noida,Kammanahalli,2020,April,31,Low,Fault of Road crossing pedestrian,Jeep (Government),15,22,30,Low
+UTTAR PRADESH,Saharanpur,Konena Agrahara,2020,April,13,Low,Car over speed hit to car,Truck/Lorry (Government),13,21,20,Low
+UTTAR PRADESH,Agra,Madivala,2020,April,30,Medium,Fault of Motor vehicel over speeding,Tempo/Vans (Government),10,23,40,Medium
+UTTAR PRADESH,Kanpur,Marathahalli,2020,April,23,Low,Two wheeler over speed Self accident,Jeep (Government),20,3,5,Low
+UTTAR PRADESH,Lucknow,New Tippasandara,2020,April,22,Low,Two wheeler speed and Hit to Crane,Truck/Lorry (Government),5,2,4,Low
+UTTAR PRADESH,Faizabad,Other,2020,April,20,Medium,Car over speed and hit to Agriculture vehicle.,Tempo/Vans (Government),6,3,5,Medium
+UTTAR PRADESH,Gorakhpur,other,2020,April,11,Medium,Fault of road crossing pedestrian.,Jeep (Government),7,7,8,Medium
+UTTAR PRADESH,Ghaziabad,Ramamurthy Nagar,2020,April,19,High,Car over speed and hit to car,Truck/Lorry (Government),9,23,25,High
+UTTAR PRADESH,Noida,Sampangiram Nagar,2020,April,18,Low,Two wheeler self accident Drunk & Drive,Bus (Government),1,12,30,Low
+UTTAR PRADESH,Saharanpur,Sarakki,2020,April,15,Medium,Car over speed and hit to car,Tempo/Vans (Government),12,20,31,Medium
+UTTAR PRADESH,Agra,Shantala Nagar,2020,April,14,Medium,TATA ACE,Jeep (Government),5,1,10,Medium
+UTTAR PRADESH,Ghaziabad,Singasandra,2020,April,12,High,Car,Truck/Lorry (Government),6,4,21,High
+UTTAR PRADESH,Noida,Sudham Nagara,2020,May,18,Low,Car over speed and hit to car.,Bus (Government),3,23,40,Low
+UTTAR PRADESH,Saharanpur,Varthuru,2020,June,17,High,Car over speed and hit to over turning car,Tempo/Vans (Government),5,2,7,High
+UTTAR PRADESH,Agra,Vasanthpura,2020,July,14,Low,Van over speed self accident,Jeep (Government),10,24,23,Low
+UTTAR PRADESH,Agra,Vijnana Nagar,2020,August,9,Medium,Two wheeler over speed Self accident,Car (Government),12,21,20,Medium
+UTTARAKHAND,Dehradun,Vijnanapura,2020,September,8,High,Car lost control,Tempo/Vans (Government),15,2,3,High
+UTTARAKHAND,Haldwani-cum-Kathgodam,Yelchenahalli,2020,October,10,Low,Car,Car (Government),20,22,23,Low
+UTTARAKHAND,Haridwar,A Narayanapura,2020,November,20,High,Two wheeler over speed Self accident,Bus (Government),2,12,14,High
+UTTARAKHAND,Roorkee,Agaram,2020,December,2,High,Two wheeler over speed and hit to two wheeler,Bus (Government),19,34,40,High
+UTTARAKHAND,Rudrapur,Banasavadi,2020,November,1,Low,Drunk & Drive,Truck/Lorry (Government),17,21,22,Low
+UTTARAKHAND,Kashipur,Basavanapura,2020,November,5,High,Two wheeler over speed and hit to LCV,Tempo/Vans (Government),16,34,50,High
+UTTARAKHAND,Rishikesh,Bellanduru,2020,November,6,High,Car over speed and hit to car,Truck/Lorry (Government),2,21,30,High
+UTTARAKHAND,Dehradun,Benniganahalli,2020,November,4,Low,Multi axle hit to Truck,Truck/Lorry (Government),13,22,30,Low
+UTTARAKHAND,Haldwani-cum-Kathgodam,Bharathi Nagar,2020,November,7,High,Car self accident due to Over speed,Tempo/Vans (Government),17,21,20,High
+UTTARAKHAND,Haridwar,BTM Layout,2020,November,23,Medium,Car hit to Two wheeler due to bike over speed turning the car,Car (Government),2,23,40,Medium
+UTTARAKHAND,Roorkee,C V Raman Nagar,2020,November,21,Low,Self,Truck/Lorry (Government),1,3,5,Low
+UTTARAKHAND,Rudrapur,Chickpete,2020,November,12,Low,Fault of Pedestrian road crossing the vehicle hit to the pedestrian,Tempo/Vans (Government),2,2,4,Low
+UTTARAKHAND,Kashipur,Devasandra,2020,November,31,High,Tyre blast vehicle out of control,Jeep (Government),4,3,5,High
+UTTARAKHAND,Rishikesh,Dharmaraya Swamy Temple,2020,November,13,Medium,Two wheeler over speed Self accident Drunk & Drive,Truck/Lorry (Government),5,7,8,Medium
+UTTARAKHAND,Dehradun,Dodda Nekkundi,2020,October,30,Medium,Two wheeler over speed and hit to car in MCW,Tempo/Vans (Government),8,23,25,Medium
+UTTARAKHAND,Haldwani-cum-Kathgodam,Domlur,2020,October,23,Low,Car over speed,Car (Government),11,12,30,Low
+UTTARAKHAND,Haridwar,Garudachar Playa,2020,October,22,Medium,Two wheeler over speed and hit to LCV,Tempo/Vans (Government),9,20,31,Medium
+UTTARAKHAND,Roorkee,Gurappanapalya,2020,October,20,Low,car over speed and hit to two wheeler,Car (Government),13,1,10,Low
+UTTARAKHAND,Rudrapur,Hagadur,2020,October,11,Medium,Bus over speed and hit to Car,Truck/Lorry (Government),20,4,21,Medium
+UTTARAKHAND,Kashipur,HAL Airport,2020,October,19,High,Two wheeler over speed and hit to LCV,Tempo/Vans (Government),21,23,40,High
+UTTARAKHAND,Rishikesh,Halsoor,2020,October,18,Low,Two wheeler over speed and hit to two wheeler,Truck/Lorry (Government),19,2,7,Low
+WEST BENGAL,Kolkata,Hemmigepura,2020,October,15,Low,Multi axle over speed and hit to Two wheeler,Truck/Lorry (Private),22,24,23,Low
+WEST BENGAL,Asansol,Horamavu,2020,October,14,Low,Bus over speed and Hit to Tow wheeler,Bus (Government),3,21,20,Low
+WEST BENGAL,Siliguri,Hoysala Nagar,2020,October,12,Low,Bike,Bus (Private),1,2,3,Low
+WEST BENGAL,Durgapur,HSR Layout,2020,October,18,Medium,Two wheeler over speed self accident,Tempo/Vans (Government),10,22,23,Medium
+WEST BENGAL,Bardhaman,Hudi,2020,October,17,Medium,Bike,Tempo/Vans (Private),20,12,14,Medium
+WEST BENGAL,Gaighata,J P Nagar,2020,October,14,High,Two wheeler over speed and hit to Car,Jeep (Government),21,34,40,High
+WEST BENGAL,Kharagpur,Jaraganahalli,2020,October,9,Medium,Bike over speed fault of Motor vehicle,Jeep (Private),23,21,22,Medium
+WEST BENGAL,Shantipur,Jayanagar East,2020,October,8,High,Two wheeler over speed and hit to two wheeler. Negligence Driving.,Car (Government),21,34,50,High
+WEST BENGAL,Dankuni,Jeevanbhima Nagar,2020,October,10,Medium,Self accident Two wheeler over speed,Car (Private),12,21,30,Medium
+WEST BENGAL,Kolkata,Jogupalya,2020,September,20,Medium,Car over speed and hit to car,Three Wheeler,15,22,30,Medium
+WEST BENGAL,Asansol,K R Puram,2020,September,2,High,Car over speed hit to Hydra,Bicycle,13,21,20,High
+WEST BENGAL,Siliguri,Kacharkanahalli,2020,September,1,Low,Two wheeler over speed and hit to car,Pedestrian,10,23,40,Low
+WEST BENGAL,Durgapur,Kadugodi,2020,September,5,Medium,Two wheeler over speed and hit to Truck,Others (Please Specify),20,3,5,Medium
+WEST BENGAL,Bardhaman,Kammanahalli,2020,September,6,Low,Truck over speed and hit to LCV,Total Truck/Lorry,5,2,4,Low
+WEST BENGAL,Gaighata,Konena Agrahara,2020,September,4,Low,Car over speed self accident,Total Bus,6,3,5,Low
+WEST BENGAL,Kharagpur,Madivala,2020,September,7,Medium,car over speed and hit to two wheeler,Total Tempo/Vans,7,7,8,Medium
+WEST BENGAL,Shantipur,Marathahalli,2020,September,23,Low,Car over speed,Total Jeep,9,23,25,Low
+WEST BENGAL,Dankuni,New Tippasandara,2020,September,21,Low,LCV over speed and hit to Car,Total Car,5,2,4,Low
+WEST BENGAL,Shantipur,Other,2020,September,12,Medium,Mini truck crushed with school bus. Negligent driving of Mini truck driver,Truck/Lorry (Government),6,3,5,Medium
+WEST BENGAL,Dankuni,other,2020,September,31,Medium,Drunk & Drive,Truck/Lorry (Private),7,7,8,Medium
+WEST BENGAL,Dankuni,Ramamurthy Nagar,2020,September,13,High,Two wheeler over speed self accident,Bus (Government),9,23,25,High
